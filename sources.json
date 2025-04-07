@@ -1,0 +1,910 @@
+{
+    "First Committee": [
+      {
+        "topic": "Regulating the use of private military contractors in conflict zones",
+        "sources": {
+          "news_outlets": [
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "The Guardian", "url": "https://www.theguardian.com/international" }
+          ],
+          "UN_organizations": [
+            { "name": "United Nations Official", "url": "https://www.un.org" },
+            { "name": "UN News", "url": "https://news.un.org" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "Human Rights Watch", "url": "https://www.hrw.org" },
+            { "name": "Amnesty International", "url": "https://www.amnesty.org/en/" }
+          ],
+          "academia": [
+            { "name": "Google Scholar", "url": "https://scholar.google.com" },
+            { "name": "JSTOR", "url": "https://www.jstor.org" }
+          ]
+        }
+      },
+      {
+        "topic": "Creating systems to protect against state-sponsored cyber attacks",
+        "sources": {
+          "news_outlets": [
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/" }
+          ],
+          "UN_organizations": [
+            { "name": "United Nations Official", "url": "https://www.un.org" },
+            { "name": "UN News", "url": "https://news.un.org" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "Access Now", "url": "https://www.accessnow.org" },
+            { "name": "Amnesty International", "url": "https://www.amnesty.org/en/" }
+          ],
+          "academia": [
+            { "name": "Google Scholar", "url": "https://scholar.google.com" },
+            { "name": "ResearchGate", "url": "https://www.researchgate.net" }
+          ]
+        }
+      },
+      {
+        "topic": "Combating the rise of extremist groups in the Sahel",
+        "sources": {
+          "news_outlets": [
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/" },
+            { "name": "BBC News", "url": "https://www.bbc.com/news" }
+          ],
+          "UN_organizations": [
+            { "name": "United Nations Official", "url": "https://www.un.org" },
+            { "name": "UN News", "url": "https://news.un.org" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "International Crisis Group", "url": "https://www.crisisgroup.org" },
+            { "name": "Amnesty International", "url": "https://www.amnesty.org/en/" }
+          ],
+          "academia": [
+            { "name": "JSTOR", "url": "https://www.jstor.org" },
+            { "name": "Google Scholar", "url": "https://scholar.google.com" }
+          ]
+        }
+      }
+    ],
+    "Third Committee": [
+      {
+        "topic": "Fostering the advancement of women within education",
+        "sources": {
+          "news_outlets": [
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "The Guardian", "url": "https://www.theguardian.com/international" }
+          ],
+          "UN_organizations": [
+            { "name": "UN Women", "url": "https://www.unwomen.org" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "Amnesty International", "url": "https://www.amnesty.org/en/" },
+            { "name": "Plan International", "url": "https://www.plan-international.org" }
+          ],
+          "academia": [
+            { "name": "Google Scholar", "url": "https://scholar.google.com" },
+            { "name": "ResearchGate", "url": "https://www.researchgate.net" }
+          ]
+        }
+      },
+      {
+        "topic": "Upholding the international criminal justice system for public safety",
+        "sources": {
+          "news_outlets": [
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/" }
+          ],
+          "UN_organizations": [
+            { "name": "International Court of Justice", "url": "https://www.icj-cij.org" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "Amnesty International", "url": "https://www.amnesty.org/en/" },
+            { "name": "Human Rights Watch", "url": "https://www.hrw.org" }
+          ],
+          "academia": [
+            { "name": "JSTOR", "url": "https://www.jstor.org" },
+            { "name": "Google Scholar", "url": "https://scholar.google.com" }
+          ]
+        }
+      },
+      {
+        "topic": "Affirming the rights of communities displaced by violence",
+        "sources": {
+          "news_outlets": [
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "The Guardian", "url": "https://www.theguardian.com/international" }
+          ],
+          "UN_organizations": [
+            { "name": "UN Refugee Agency", "url": "https://www.unhcr.org" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "International Rescue Committee", "url": "https://www.rescue.org" },
+            { "name": "Amnesty International", "url": "https://www.amnesty.org/en/" }
+          ],
+          "academia": [
+            { "name": "Google Scholar", "url": "https://scholar.google.com" },
+            { "name": "JSTOR", "url": "https://www.jstor.org" }
+          ]
+        }
+      }
+    ],
+    "Fourth Committee": [
+      {
+        "topic": "Ensuring the rights and safety of indigenous populations",
+        "sources": {
+          "news_outlets": [
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "The Guardian", "url": "https://www.theguardian.com/international" }
+          ],
+          "UN_organizations": [
+            { "name": "UN Indigenous Peoples", "url": "https://www.un.org/development/desa/indigenouspeoples/" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "Survival International", "url": "https://www.survivalinternational.org" },
+            { "name": "Amnesty International", "url": "https://www.amnesty.org/en/" }
+          ],
+          "academia": [
+            { "name": "JSTOR", "url": "https://www.jstor.org" },
+            { "name": "Google Scholar", "url": "https://scholar.google.com" }
+          ]
+        }
+      },
+      {
+        "topic": "Providing viable solutions for long-term refugee resettlement",
+        "sources": {
+          "news_outlets": [
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "The Guardian", "url": "https://www.theguardian.com/international" }
+          ],
+          "UN_organizations": [
+            { "name": "UN Refugee Agency", "url": "https://www.unhcr.org" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "International Rescue Committee", "url": "https://www.rescue.org" },
+            { "name": "Oxfam", "url": "https://www.oxfam.org/en" }
+          ],
+          "academia": [
+            { "name": "Google Scholar", "url": "https://scholar.google.com" },
+            { "name": "ResearchGate", "url": "https://www.researchgate.net" }
+          ]
+        }
+      },
+      {
+        "topic": "Preventing the militarization of outer space",
+        "sources": {
+          "news_outlets": [
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/" }
+          ],
+          "UN_organizations": [
+            { "name": "UN Office for Outer Space Affairs", "url": "https://www.unoosa.org" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "Secure World Foundation", "url": "https://www.swfound.org" }
+          ],
+          "academia": [
+            { "name": "JSTOR", "url": "https://www.jstor.org" },
+            { "name": "Google Scholar", "url": "https://scholar.google.com" }
+          ]
+        }
+      }
+    ],
+    "Sixth Committee": [
+      {
+        "topic": "Assessing the legal measures of international organizations",
+        "sources": {
+          "news_outlets": [
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "The Guardian", "url": "https://www.theguardian.com/international" }
+          ],
+          "UN_organizations": [
+            { "name": "United Nations Official", "url": "https://www.un.org" },
+            { "name": "UN News", "url": "https://news.un.org" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "Amnesty International", "url": "https://www.amnesty.org/en/" },
+            { "name": "Human Rights Watch", "url": "https://www.hrw.org" }
+          ],
+          "academia": [
+            { "name": "Google Scholar", "url": "https://scholar.google.com" },
+            { "name": "ResearchGate", "url": "https://www.researchgate.net" }
+          ]
+        }
+      },
+      {
+        "topic": "Preventing crimes against internationally protected persons",
+        "sources": {
+          "news_outlets": [
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/" }
+          ],
+          "UN_organizations": [
+            { "name": "UN Human Rights Council", "url": "https://www.ohchr.org" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "Human Rights Watch", "url": "https://www.hrw.org" },
+            { "name": "Amnesty International", "url": "https://www.amnesty.org/en/" }
+          ],
+          "academia": [
+            { "name": "JSTOR", "url": "https://www.jstor.org" },
+            { "name": "Google Scholar", "url": "https://scholar.google.com" }
+          ]
+        }
+      },
+      {
+        "topic": "Implementing universal jurisdiction across conflict zones",
+        "sources": {
+          "news_outlets": [
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "The Guardian", "url": "https://www.theguardian.com/international" }
+          ],
+          "UN_organizations": [
+            { "name": "United Nations Official", "url": "https://www.un.org" },
+            { "name": "UN News", "url": "https://news.un.org" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "Amnesty International", "url": "https://www.amnesty.org/en/" },
+            { "name": "Human Rights Watch", "url": "https://www.hrw.org" }
+          ],
+          "academia": [
+            { "name": "Google Scholar", "url": "https://scholar.google.com" },
+            { "name": "JSTOR", "url": "https://www.jstor.org" }
+          ]
+        }
+      }
+    ],
+    "United Nations Development Programme": [
+      {
+        "topic": "Narrowing the gender gap",
+        "sources": {
+          "news_outlets": [
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "The Guardian", "url": "https://www.theguardian.com/international" }
+          ],
+          "UN_organizations": [
+            { "name": "UN Women", "url": "https://www.unwomen.org" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "Amnesty International", "url": "https://www.amnesty.org/en/" },
+            { "name": "Oxfam", "url": "https://www.oxfam.org/en" }
+          ],
+          "academia": [
+            { "name": "Google Scholar", "url": "https://scholar.google.com" },
+            { "name": "JSTOR", "url": "https://www.jstor.org" }
+          ]
+        }
+      },
+      {
+        "topic": "Providing aid to developing countries in conflict",
+        "sources": {
+          "news_outlets": [
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/" }
+          ],
+          "UN_organizations": [
+            { "name": "United Nations Official", "url": "https://www.un.org" },
+            { "name": "UN News", "url": "https://news.un.org" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "International Rescue Committee", "url": "https://www.rescue.org" },
+            { "name": "Oxfam", "url": "https://www.oxfam.org/en" }
+          ],
+          "academia": [
+            { "name": "Google Scholar", "url": "https://scholar.google.com" },
+            { "name": "ResearchGate", "url": "https://www.researchgate.net" }
+          ]
+        }
+      },
+      {
+        "topic": "Guaranteeing nutritional food sources",
+        "sources": {
+          "news_outlets": [
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "The Guardian", "url": "https://www.theguardian.com/international" }
+          ],
+          "UN_organizations": [
+            { "name": "Food and Agriculture Organization", "url": "https://www.fao.org" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "Oxfam", "url": "https://www.oxfam.org/en" },
+            { "name": "Amnesty International", "url": "https://www.amnesty.org/en/" }
+          ],
+          "academia": [
+            { "name": "JSTOR", "url": "https://www.jstor.org" },
+            { "name": "Google Scholar", "url": "https://scholar.google.com" }
+          ]
+        }
+      }
+    ],
+    "World Health Organization": [
+      {
+        "topic": "Regulation of pandemics and global regulations for lockdowns",
+        "sources": {
+          "news_outlets": [
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/" }
+          ],
+          "UN_organizations": [
+            { "name": "World Health Organization", "url": "https://www.who.int" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Health Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "Doctors Without Borders", "url": "https://www.doctorswithoutborders.org" },
+            { "name": "IFRC", "url": "https://www.ifrc.org" }
+          ],
+          "academia": [
+            { "name": "Google Scholar", "url": "https://scholar.google.com" },
+            { "name": "ResearchGate", "url": "https://www.researchgate.net" }
+          ]
+        }
+      },
+      {
+        "topic": "Treating disease in areas of prolonged conflict",
+        "sources": {
+          "news_outlets": [
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "The Guardian", "url": "https://www.theguardian.com/international" }
+          ],
+          "UN_organizations": [
+            { "name": "World Health Organization", "url": "https://www.who.int" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Health Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "Doctors Without Borders", "url": "https://www.doctorswithoutborders.org" },
+            { "name": "ICRC", "url": "https://www.icrc.org" }
+          ],
+          "academia": [
+            { "name": "JSTOR", "url": "https://www.jstor.org" },
+            { "name": "Google Scholar", "url": "https://scholar.google.com" }
+          ]
+        }
+      },
+      {
+        "topic": "Addressing obesity and diet-related diseases",
+        "sources": {
+          "news_outlets": [
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "The Guardian", "url": "https://www.theguardian.com/international" }
+          ],
+          "UN_organizations": [
+            { "name": "World Health Organization", "url": "https://www.who.int" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Health Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "World Obesity Federation", "url": "https://www.worldobesity.org" },
+            { "name": "The Obesity Society", "url": "https://www.obesity.org" }
+          ],
+          "academia": [
+            { "name": "Google Scholar", "url": "https://scholar.google.com" },
+            { "name": "ResearchGate", "url": "https://www.researchgate.net" }
+          ]
+        }
+      }
+    ],
+    "International Maritime Organization": [
+      {
+        "topic": "Discussing the use of maritime autonomous surface ships (MASS)",
+        "sources": {
+          "news_outlets": [
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "The Guardian", "url": "https://www.theguardian.com/international" }
+          ],
+          "UN_organizations": [
+            { "name": "International Maritime Organization", "url": "https://www.imo.org" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "International Chamber of Shipping", "url": "https://www.ics-shipping.org" }
+          ],
+          "academia": [
+            { "name": "Google Scholar", "url": "https://scholar.google.com" },
+            { "name": "JSTOR", "url": "https://www.jstor.org" }
+          ]
+        }
+      },
+      {
+        "topic": "Enhancing global cooperation against piracy in piracy hotspots",
+        "sources": {
+          "news_outlets": [
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/" }
+          ],
+          "UN_organizations": [
+            { "name": "International Maritime Organization", "url": "https://www.imo.org" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "International Crisis Group", "url": "https://www.crisisgroup.org" }
+          ],
+          "academia": [
+            { "name": "JSTOR", "url": "https://www.jstor.org" },
+            { "name": "Google Scholar", "url": "https://scholar.google.com" }
+          ]
+        }
+      },
+      {
+        "topic": "Addressing illegal, unreported, and unregulated fishing",
+        "sources": {
+          "news_outlets": [
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "The Guardian", "url": "https://www.theguardian.com/international" }
+          ],
+          "UN_organizations": [
+            { "name": "International Maritime Organization", "url": "https://www.imo.org" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "Seafood Watch", "url": "https://www.seafoodwatch.org" },
+            { "name": "Environmental Defense Fund", "url": "https://www.edf.org" }
+          ],
+          "academia": [
+            { "name": "Google Scholar", "url": "https://scholar.google.com" },
+            { "name": "ResearchGate", "url": "https://www.researchgate.net" }
+          ]
+        }
+      }
+    ],
+    "United Nations Environment Programme": [
+      {
+        "topic": "Limiting chemical pollutants and pesticides in soil",
+        "sources": {
+          "news_outlets": [
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "The Guardian", "url": "https://www.theguardian.com/international" }
+          ],
+          "UN_organizations": [
+            { "name": "United Nations Environment Programme", "url": "https://www.unep.org" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Environmental Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "Greenpeace", "url": "https://www.greenpeace.org" },
+            { "name": "Environmental Defense Fund", "url": "https://www.edf.org" }
+          ],
+          "academia": [
+            { "name": "JSTOR", "url": "https://www.jstor.org" },
+            { "name": "Google Scholar", "url": "https://scholar.google.com" }
+          ]
+        }
+      },
+      {
+        "topic": "Regulating unethical textile manufacturing and the fast fashion industry",
+        "sources": {
+          "news_outlets": [
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "The Guardian", "url": "https://www.theguardian.com/international" }
+          ],
+          "UN_organizations": [
+            { "name": "United Nations Environment Programme", "url": "https://www.unep.org" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Environmental Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "Fashion Revolution", "url": "https://www.fashionrevolution.org" },
+            { "name": "Clean Clothes Campaign", "url": "https://cleanclothes.org" }
+          ],
+          "academia": [
+            { "name": "Google Scholar", "url": "https://scholar.google.com" },
+            { "name": "ResearchGate", "url": "https://www.researchgate.net" }
+          ]
+        }
+      },
+      {
+        "topic": "Addressing overpopulation and its effects on the environment",
+        "sources": {
+          "news_outlets": [
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "The Guardian", "url": "https://www.theguardian.com/international" }
+          ],
+          "UN_organizations": [
+            { "name": "United Nations Environment Programme", "url": "https://www.unep.org" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Environmental Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "Population Action International", "url": "https://www.populationaction.org" }
+          ],
+          "academia": [
+            { "name": "JSTOR", "url": "https://www.jstor.org" },
+            { "name": "Google Scholar", "url": "https://scholar.google.com" }
+          ]
+        }
+      }
+    ],
+    "Economic and Social Council": [
+      {
+        "topic": "Improving higher education in developing countries",
+        "sources": {
+          "news_outlets": [
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "The Guardian", "url": "https://www.theguardian.com/international" }
+          ],
+          "UN_organizations": [
+            { "name": "UNESCO", "url": "https://www.unesco.org" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "Education International", "url": "https://www.ei-ie.org" },
+            { "name": "UNICEF", "url": "https://www.unicef.org" }
+          ],
+          "academia": [
+            { "name": "Google Scholar", "url": "https://scholar.google.com" },
+            { "name": "JSTOR", "url": "https://www.jstor.org" }
+          ]
+        }
+      },
+      {
+        "topic": "Promoting rural development in Africa",
+        "sources": {
+          "news_outlets": [
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "The Guardian", "url": "https://www.theguardian.com/international" }
+          ],
+          "UN_organizations": [
+            { "name": "United Nations Economic Commission for Africa", "url": "https://www.uneca.org" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "Oxfam", "url": "https://www.oxfam.org/en" },
+            { "name": "International Fund for Agricultural Development", "url": "https://www.ifad.org" }
+          ],
+          "academia": [
+            { "name": "Google Scholar", "url": "https://scholar.google.com" },
+            { "name": "ResearchGate", "url": "https://www.researchgate.net" }
+          ]
+        }
+      },
+      {
+        "topic": "Addressing social inclusion of the elderly",
+        "sources": {
+          "news_outlets": [
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "The Guardian", "url": "https://www.theguardian.com/international" }
+          ],
+          "UN_organizations": [
+            { "name": "United Nations Population Fund", "url": "https://www.unfpa.org" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "HelpAge International", "url": "https://www.helpage.org" }
+          ],
+          "academia": [
+            { "name": "Google Scholar", "url": "https://scholar.google.com" },
+            { "name": "JSTOR", "url": "https://www.jstor.org" }
+          ]
+        }
+      }
+    ],
+    "UN Educational, Scientific and Cultural Organization": [
+      {
+        "topic": "Protecting world heritage sites",
+        "sources": {
+          "news_outlets": [
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "The Guardian", "url": "https://www.theguardian.com/international" }
+          ],
+          "UN_organizations": [
+            { "name": "UNESCO", "url": "https://www.unesco.org" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "ICOMOS", "url": "https://www.icomos.org" }
+          ],
+          "academia": [
+            { "name": "Google Scholar", "url": "https://scholar.google.com" },
+            { "name": "JSTOR", "url": "https://www.jstor.org" }
+          ]
+        }
+      },
+      {
+        "topic": "Solidifying sustainable agriculture",
+        "sources": {
+          "news_outlets": [
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "The Guardian", "url": "https://www.theguardian.com/international" }
+          ],
+          "UN_organizations": [
+            { "name": "FAO", "url": "https://www.fao.org" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "IFOAM", "url": "https://www.ifoam.bio" }
+          ],
+          "academia": [
+            { "name": "JSTOR", "url": "https://www.jstor.org" },
+            { "name": "Google Scholar", "url": "https://scholar.google.com" }
+          ]
+        }
+      },
+      {
+        "topic": "Promoting the return of cultural property to its country of origin",
+        "sources": {
+          "news_outlets": [
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "The Guardian", "url": "https://www.theguardian.com/international" }
+          ],
+          "UN_organizations": [
+            { "name": "UNESCO", "url": "https://www.unesco.org" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "Blue Shield International", "url": "https://www.blueshieldinternational.org" }
+          ],
+          "academia": [
+            { "name": "Google Scholar", "url": "https://scholar.google.com" },
+            { "name": "ResearchGate", "url": "https://www.researchgate.net" }
+          ]
+        }
+      }
+    ],
+    "Regional Security Council": [
+      {
+        "topic": "Preventing unlawful detentions in East Africa",
+        "sources": {
+          "news_outlets": [
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/" }
+          ],
+          "UN_organizations": [
+            { "name": "African Union", "url": "https://au.int" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "Amnesty International", "url": "https://www.amnesty.org/en/" },
+            { "name": "Human Rights Watch", "url": "https://www.hrw.org" }
+          ],
+          "academia": [
+            { "name": "Google Scholar", "url": "https://scholar.google.com" },
+            { "name": "JSTOR", "url": "https://www.jstor.org" }
+          ]
+        }
+      },
+      {
+        "topic": "Combating illegal drug trafficking in the Caribbean",
+        "sources": {
+          "news_outlets": [
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "The Guardian", "url": "https://www.theguardian.com/international" }
+          ],
+          "UN_organizations": [
+            { "name": "UN Office on Drugs and Crime", "url": "https://www.unodc.org" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "International Drug Policy Consortium", "url": "https://idpc.net" }
+          ],
+          "academia": [
+            { "name": "Google Scholar", "url": "https://scholar.google.com" },
+            { "name": "JSTOR", "url": "https://www.jstor.org" }
+          ]
+        }
+      },
+      {
+        "topic": "Addressing unresolved territorial disputes in the Balkans",
+        "sources": {
+          "news_outlets": [
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "The Guardian", "url": "https://www.theguardian.com/international" }
+          ],
+          "UN_organizations": [
+            { "name": "United Nations Official", "url": "https://www.un.org" },
+            { "name": "UN News", "url": "https://news.un.org" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "International Crisis Group", "url": "https://www.crisisgroup.org" },
+            { "name": "Amnesty International", "url": "https://www.amnesty.org/en/" }
+          ],
+          "academia": [
+            { "name": "Google Scholar", "url": "https://scholar.google.com" },
+            { "name": "ResearchGate", "url": "https://www.researchgate.net" }
+          ]
+        }
+      }
+    ],
+    "Security Council": [
+      {
+        "topic": "Assessing the internet’s role in exacerbating extremism",
+        "sources": {
+          "news_outlets": [
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/" }
+          ],
+          "UN_organizations": [
+            { "name": "United Nations Official", "url": "https://www.un.org" },
+            { "name": "UN News", "url": "https://news.un.org" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "Human Rights Watch", "url": "https://www.hrw.org" },
+            { "name": "Access Now", "url": "https://www.accessnow.org" }
+          ],
+          "academia": [
+            { "name": "Google Scholar", "url": "https://scholar.google.com" },
+            { "name": "JSTOR", "url": "https://www.jstor.org" }
+          ]
+        }
+      },
+      {
+        "topic": "Evaluating recent escalations of the humanitarian crisis in Yemen",
+        "sources": {
+          "news_outlets": [
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "Al Jazeera", "url": "https://www.aljazeera.com/news/" }
+          ],
+          "UN_organizations": [
+            { "name": "UN News", "url": "https://news.un.org" },
+            { "name": "United Nations Official", "url": "https://www.un.org" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "International Crisis Group", "url": "https://www.crisisgroup.org" },
+            { "name": "Amnesty International", "url": "https://www.amnesty.org/en/" }
+          ],
+          "academia": [
+            { "name": "Google Scholar", "url": "https://scholar.google.com" },
+            { "name": "JSTOR", "url": "https://www.jstor.org" }
+          ]
+        }
+      },
+      {
+        "topic": "Open agenda on the effects of transnational organized crime on international security",
+        "sources": {
+          "news_outlets": [
+            { "name": "Reuters", "url": "https://www.reuters.com" },
+            { "name": "BBC News", "url": "https://www.bbc.com/news" },
+            { "name": "The Guardian", "url": "https://www.theguardian.com/international" }
+          ],
+          "UN_organizations": [
+            { "name": "United Nations Official", "url": "https://www.un.org" },
+            { "name": "UN News", "url": "https://news.un.org" }
+          ],
+          "past_UN_resolutions": [
+            { "name": "UN Resolutions Search", "url": "https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/" }
+          ],
+          "NGOs": [
+            { "name": "Amnesty International", "url": "https://www.amnesty.org/en/" },
+            { "name": "Human Rights Watch", "url": "https://www.hrw.org" }
+          ],
+          "academia": [
+            { "name": "Google Scholar", "url": "https://scholar.google.com" },
+            { "name": "JSTOR", "url": "https://www.jstor.org" }
+          ]
+        }
+      }
+    ],
+    "Crisis": [
+      {
+        "topic": "The Meiji Restoration",
+        "sources": {
+          "news_outlets": [
+            { "name": "BBC History", "url": "https://www.bbc.co.uk/history" },
+            { "name": "History.com", "url": "https://www.history.com" }
+          ],
+          "UN_organizations": [],
+          "past_UN_resolutions": [],
+          "NGOs": [],
+          "academia": [
+            { "name": "Google Scholar", "url": "https://scholar.google.com" },
+            { "name": "JSTOR", "url": "https://www.jstor.org" }
+          ]
+        }
+      }
+    ]
+  }
+  
