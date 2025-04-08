@@ -1,0 +1,1381 @@
+2025-04-07 13:36:41,626 - mun_scraper - INFO - Loaded 37 topics from agenda_topics.json
+2025-04-07 13:36:41,626 - mun_scraper - INFO - Loaded sources for 13 committees from sources.json
+2025-04-07 13:36:41,626 - mun_scraper - INFO - Starting MUN scraper
+2025-04-07 13:36:41,627 - mun_scraper - INFO - Processing committee: First Committee
+2025-04-07 13:36:41,627 - mun_scraper - INFO - Processing topic 1/3: Regulating the use of private military contractors in conflict zones
+2025-04-07 13:36:41,627 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 13:36:41,627 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for First Committee - Regulating the use of private military contractors in conflict zones
+2025-04-07 13:37:16,037 - mun_scraper - INFO - Loaded 37 topics from agenda_topics.json
+2025-04-07 13:37:16,037 - mun_scraper - INFO - Loaded sources for 13 committees from sources.json
+2025-04-07 13:37:16,038 - mun_scraper - INFO - Starting MUN scraper
+2025-04-07 13:37:16,038 - mun_scraper - INFO - Processing committee: First Committee
+2025-04-07 13:37:16,038 - mun_scraper - INFO - Processing topic 1/3: Regulating the use of private military contractors in conflict zones
+2025-04-07 13:37:16,038 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 13:37:16,038 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for First Committee - Regulating the use of private military contractors in conflict zones
+2025-04-07 13:37:18,390 - mun_scraper - INFO - Saved article: Home - BBC News - Relevance: 0.40
+2025-04-07 13:37:22,529 - mun_scraper - INFO - Saved article: Trump tariffs latest: Trump not considering pausing tariffs despite global turmoil - BBC News - Relevance: 0.45
+2025-04-07 13:37:26,935 - mun_scraper - INFO - Saved article: US & Canada | Latest News & Updates | BBC News - Relevance: 0.40
+2025-04-07 13:37:28,689 - mun_scraper - INFO - Saved article: Israel Gaza war | Latest News & Updates | BBC News - Relevance: 0.38
+2025-04-07 13:37:32,643 - mun_scraper - INFO - Saved article: US & Canada | Latest News & Updates | BBC News - Relevance: 0.40
+2025-04-07 13:37:38,582 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 11 URLs.
+2025-04-07 13:37:38,582 - mun_scraper - INFO - Crawling source: https://www.reuters.com for First Committee - Regulating the use of private military contractors in conflict zones
+2025-04-07 13:37:38,837 - mun_scraper - WARNING - Failed to fetch https://www.reuters.com: HTTP 401
+2025-04-07 13:37:38,838 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 13:37:38,838 - mun_scraper - INFO - Crawling source: https://www.theguardian.com/international for First Committee - Regulating the use of private military contractors in conflict zones
+2025-04-07 13:37:41,251 - mun_scraper - INFO - Saved article: Latest news, sport and opinion from the Guardian - Relevance: 0.38
+2025-04-07 13:37:47,984 - mun_scraper - INFO - Saved article: Trump says US in direct talks with Iran over nuclear program as he holds Oval Office meeting with Netanyahu – US politics live | Donald Trump | The Guardian - Relevance: 0.40
+2025-04-07 13:37:56,534 - mun_scraper - INFO - Saved article: Trump tariffs come into effect in ‘seismic’ shift to global trade | Trump tariffs | The Guardian - Relevance: 0.33
+2025-04-07 13:37:58,712 - mun_scraper - INFO - Saved article: How do you price the risk of ‘economic nuclear winter’? The market hasn’t a clue | Nils Pratley | The Guardian - Relevance: 0.30
+2025-04-07 13:38:11,329 - mun_scraper - INFO - Saved article: Donald Trump says he is not looking at pausing tariffs as US markets close after rocky day – business live | Business | The Guardian - Relevance: 0.35
+2025-04-07 13:38:13,270 - mun_scraper - INFO - Saved article: Which Trump-supporting billionaires have lost the most in tariff markets turmoil? | Trump tariffs | The Guardian - Relevance: 0.35
+2025-04-07 13:38:15,071 - mun_scraper - INFO - Saved article: European markets slump as Trump says ‘you have to take medicine’ | Trump tariffs | The Guardian - Relevance: 0.30
+2025-04-07 13:38:16,813 - mun_scraper - INFO - Saved article: EU offered ‘zero-for-zero’ deal to US weeks before tariff announcement | European Union | The Guardian - Relevance: 0.33
+2025-04-07 13:38:28,212 - mun_scraper - INFO - Saved article: EU urged to put human rights centre stage at first central Asia summit | European Union | The Guardian - Relevance: 0.40
+2025-04-07 13:38:30,408 - mun_scraper - INFO - Saved article: EU retaliates against Trump tariffs with €26bn ‘countermeasures’ | Trump tariffs | The Guardian - Relevance: 0.45
+2025-04-07 13:38:33,411 - mun_scraper - INFO - Saved article: Trump tariffs of 25% on steel and aluminium come into effect globally as Europe says it will retaliate – as it happened | Trump tariffs | The Guardian - Relevance: 0.42
+2025-04-07 13:38:35,459 - mun_scraper - INFO - Saved article: Trump announces 25% tariffs on foreign steel and aluminum | Trump administration | The Guardian - Relevance: 0.33
+2025-04-07 13:38:40,141 - mun_scraper - INFO - Saved article: Keir Starmer says he does not accept UK has to choose between US and EU – as it happened | Politics | The Guardian - Relevance: 0.43
+2025-04-07 13:38:42,420 - mun_scraper - INFO - Saved article: Starmer to avoid immediate counter-tariffs if Trump puts levies on UK steel | Steel industry | The Guardian - Relevance: 0.35
+2025-04-07 13:38:44,973 - mun_scraper - INFO - Saved article: Giorgia Meloni | The Guardian - Relevance: 0.33
+2025-04-07 13:38:44,973 - mun_scraper - INFO - Finished crawling https://www.theguardian.com/international. Processed 30 URLs.
+2025-04-07 13:38:44,973 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 13:38:44,973 - mun_scraper - INFO - Crawling source: https://www.un.org for First Committee - Regulating the use of private military contractors in conflict zones
+2025-04-07 13:39:00,619 - mun_scraper - INFO - Saved article: UN-Water | Be The Change | Be the change you want to see in the world. - Relevance: 0.33
+2025-04-07 13:39:25,099 - mun_scraper - INFO - Saved article: Cryosphere | 世界气象组织 - Relevance: 0.30
+2025-04-07 13:39:30,069 - mun_scraper - INFO - Saved article: Special Report on the Ocean and Cryosphere in a Changing Climate — - Relevance: 0.53
+2025-04-07 13:39:33,111 - mun_scraper - INFO - Saved article: World Water Day | United Nations - Relevance: 0.30
+2025-04-07 13:39:38,941 - mun_scraper - WARNING - Failed to fetch https://webtv.un.org/en/asset/k10/k10vxfcrjx: HTTP 403
+2025-04-07 13:39:42,899 - mun_scraper - INFO - Saved article: Cryosphere - Relevance: 0.33
+2025-04-07 13:39:50,310 - mun_scraper - INFO - Saved article: Water and Peace | UN-Water - Relevance: 0.30
+2025-04-07 13:39:58,812 - mun_scraper - INFO - Saved article: Célébrations de la 1ère Journée mondiale des glaciers et de la Journée mondiale de l'eau à Paris | International Year of Glaciers’ Preservation - Relevance: 0.30
+2025-04-07 13:40:05,433 - mun_scraper - INFO - Saved article: Célébrations de la 1ère Journée mondiale des glaciers et de la Journée mondiale de l'eau à Paris | International Year of Glaciers’ Preservation - Relevance: 0.30
+2025-04-07 13:40:09,085 - mun_scraper - INFO - Saved article: Lancement de la 1ère Journée mondiale des glaciers et événement pivot de la Journée mondiale de l’eau à New York | International Year of Glaciers’ Preservation - Relevance: 0.30
+2025-04-07 13:40:20,005 - mun_scraper - INFO - Saved article: Launch of the 1st World Day for Glaciers and pivot event World Water Day in New York | International Year of Glaciers’ Preservation - Relevance: 0.40
+2025-04-07 13:40:23,300 - mun_scraper - INFO - Saved article: Celebrations of the 1st World Day for Glaciers and World Water Day in Paris | International Year of Glaciers’ Preservation - Relevance: 0.30
+2025-04-07 13:40:55,818 - mun_scraper - WARNING - Failed to fetch https://library.wmo.int/viewer/69033/download?file=1362_en.pdf&type=pdf&navigator=1: HTTP 404
+2025-04-07 13:40:55,818 - mun_scraper - INFO - Finished crawling https://www.un.org. Processed 42 URLs.
+2025-04-07 13:40:55,818 - mun_scraper - INFO - Crawling source: https://news.un.org for First Committee - Regulating the use of private military contractors in conflict zones
+2025-04-07 13:41:00,212 - mun_scraper - INFO - Saved article: United Nations | Peace, dignity and equality on a healthy planet - Relevance: 0.50
+2025-04-07 13:41:12,040 - mun_scraper - INFO - Saved article: General Assembly Designates 7 April International Day of Reflection on 1994 Genocide against Tutsi in Rwanda, Amending Title of Annual Observance | Meetings Coverage and Press Releases - Relevance: 0.30
+2025-04-07 13:41:24,857 - mun_scraper - INFO - Saved article: Property articles by og | United Nations - Relevance: 0.40
+2025-04-07 13:41:27,156 - mun_scraper - INFO - Saved article: Human Rights | United Nations - Relevance: 0.50
+2025-04-07 13:41:34,263 - mun_scraper - INFO - Saved article: UN peacekeeping challenged as conflicts and ceasefires grow more complex | UN News - Relevance: 0.40
+2025-04-07 13:41:34,636 - mun_scraper - WARNING - Failed to fetch https://www.facebook.com/sharer.php?u=https://news.un.org/en/story/2025/04/1161976: HTTP 400
+2025-04-07 13:41:34,637 - mun_scraper - INFO - Finished crawling https://news.un.org. Processed 15 URLs.
+2025-04-07 13:41:34,637 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 13:41:34,638 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for First Committee - Regulating the use of private military contractors in conflict zones
+2025-04-07 13:41:34,940 - mun_scraper - WARNING - Failed to fetch https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/: HTTP 403
+2025-04-07 13:41:34,940 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 13:41:34,940 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 13:41:34,940 - mun_scraper - INFO - Crawling source: https://www.hrw.org for First Committee - Regulating the use of private military contractors in conflict zones
+2025-04-07 13:41:37,159 - mun_scraper - INFO - Saved article: Human Rights Watch | Defending Human Rights Worldwide - Relevance: 0.60
+2025-04-07 13:41:39,066 - mun_scraper - INFO - Saved article: Human Rights Watch | Defending Human Rights Worldwide - Relevance: 0.60
+2025-04-07 13:41:42,690 - mun_scraper - INFO - Saved article: Donate to Defend Human Rights | Human Rights Watch - Relevance: 0.35
+2025-04-07 13:41:48,186 - mun_scraper - INFO - Saved article: Human Rights Watch Privacy Policy | Human Rights Watch - Relevance: 0.30
+2025-04-07 13:41:57,444 - mun_scraper - INFO - Saved article: Romania: Dangerous Rollback of Reproductive Rights | Human Rights Watch - Relevance: 0.40
+2025-04-07 13:41:59,518 - mun_scraper - INFO - Saved article: Romania: Dangerous Rollback of Reproductive Rights | Human Rights Watch | Text Version - Relevance: 0.38
+2025-04-07 13:42:02,060 - mun_scraper - INFO - Saved article: Romania: Dangerous Rollback of Reproductive Rights - Relevance: 0.40
+2025-04-07 13:42:02,061 - mun_scraper - INFO - Finished crawling https://www.hrw.org. Processed 10 URLs.
+2025-04-07 13:42:02,061 - mun_scraper - INFO - Crawling source: https://www.amnesty.org/en/ for First Committee - Regulating the use of private military contractors in conflict zones
+2025-04-07 13:42:06,842 - mun_scraper - INFO - Saved article: Chilling effect of online harassment in Philippines - Relevance: 0.40
+2025-04-07 13:42:11,600 - mun_scraper - INFO - Saved article: RightUp is here! - Amnesty Philippines - Relevance: 0.30
+2025-04-07 13:42:22,274 - mun_scraper - WARNING - Failed to fetch https://www.officialgazette.gov.ph/2018/12/04/executive-order-no-70-s-2018/: HTTP 403
+2025-04-07 13:42:25,323 - mun_scraper - INFO - Saved article: EO 70 to end insurgency’s ‘treacherous life cycle’: new AFP Chief | Philippine News Agency - Relevance: 0.30
+2025-04-07 13:42:32,918 - mun_scraper - INFO - Saved article: Filipino authorities are using Facebook to target young activists - Relevance: 0.32
+2025-04-07 13:42:35,768 - mun_scraper - WARNING - Error fetching https://red-tagging/: HTTPSConnectionPool(host='red-tagging', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x16a2e6240>: Failed to resolve 'red-tagging' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-04-07 13:42:40,398 - mun_scraper - INFO - Saved article: Stop attacks on young human rights defenders in the Philippines  - Amnesty Philippines - Relevance: 0.42
+2025-04-07 13:42:40,617 - mun_scraper - WARNING - Failed to fetch https://www.amnesty.org/en/search/?qtopic=2063: HTTP 403
+2025-04-07 13:42:42,961 - mun_scraper - WARNING - Failed to fetch https://www.amnesty.org/en/search/?qtopic=2121: HTTP 403
+2025-04-07 13:42:42,962 - mun_scraper - INFO - Finished crawling https://www.amnesty.org/en/. Processed 16 URLs.
+2025-04-07 13:42:42,962 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 13:42:42,962 - mun_scraper - INFO - Crawling source: https://scholar.google.com for First Committee - Regulating the use of private military contractors in conflict zones
+2025-04-07 13:43:12,438 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 12 URLs.
+2025-04-07 13:43:12,439 - mun_scraper - INFO - Crawling source: https://www.jstor.org for First Committee - Regulating the use of private military contractors in conflict zones
+2025-04-07 13:43:14,859 - mun_scraper - INFO - Finished crawling https://www.jstor.org. Processed 1 URLs.
+2025-04-07 13:43:14,859 - mun_scraper - INFO - Processing topic 2/3: Creating systems to protect against state-sponsored cyber attacks
+2025-04-07 13:43:14,859 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 13:43:14,859 - mun_scraper - INFO - Crawling source: https://www.reuters.com for First Committee - Creating systems to protect against state-sponsored cyber attacks
+2025-04-07 13:43:14,859 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 13:43:14,859 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for First Committee - Creating systems to protect against state-sponsored cyber attacks
+2025-04-07 13:43:14,859 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 13:43:14,859 - mun_scraper - INFO - Crawling source: https://www.aljazeera.com/news/ for First Committee - Creating systems to protect against state-sponsored cyber attacks
+2025-04-07 13:43:31,074 - mun_scraper - INFO - Saved article: Africa must shun Trump’s push to resurrect coal | Climate Crisis | Al Jazeera - Relevance: 0.41
+2025-04-07 13:43:35,715 - mun_scraper - INFO - Saved article: EU offers zero tariff deal to US but prepares for trade war | International Trade News | Al Jazeera - Relevance: 0.32
+2025-04-07 13:43:44,893 - mun_scraper - INFO - Saved article: What did Al Jazeera’s investigation into Israeli war crimes in Gaza reveal? | Israel-Palestine conflict News | Al Jazeera - Relevance: 0.32
+2025-04-07 13:43:53,387 - mun_scraper - INFO - Saved article: Risk of long-feared regional war rises as Israel and Iran swap threats | Israel-Palestine conflict News | Al Jazeera - Relevance: 0.34
+2025-04-07 13:43:56,023 - mun_scraper - INFO - Saved article: Israel destroyed my university, but not my desire for an education | Israel-Palestine conflict | Al Jazeera - Relevance: 0.34
+2025-04-07 13:44:04,914 - mun_scraper - INFO - Saved article: Greek asylum policies creating refugee hunger crisis: Aid groups | Refugees News | Al Jazeera - Relevance: 0.38
+2025-04-07 13:44:28,313 - mun_scraper - INFO - Saved article: Cyprus recovers at least seven bodies after refugee boat capsizes | Migration News | Al Jazeera - Relevance: 0.32
+2025-04-07 13:44:35,345 - mun_scraper - INFO - Saved article: Gang recruitment of children in Haiti rises by 70 percent: UN | Child Rights News | Al Jazeera - Relevance: 0.46
+2025-04-07 13:44:37,762 - mun_scraper - INFO - Saved article: Dominican Republic says will expel up to 10,000 Haitian migrants a week | Migration News | Al Jazeera - Relevance: 0.38
+2025-04-07 13:44:46,445 - mun_scraper - INFO - Saved article: EU offers zero tariff deal to US but prepares for trade war | International Trade News | Al Jazeera - Relevance: 0.32
+2025-04-07 13:44:48,940 - mun_scraper - INFO - Saved article: Red Crescent demands international probe into Israel killing of Gaza medics | Gaza News | Al Jazeera - Relevance: 0.32
+2025-04-07 13:44:51,325 - mun_scraper - INFO - Saved article: Palestinian Bedouins say Israeli settlers terrorising them off their land | Israel-Palestine conflict News | Al Jazeera - Relevance: 0.42
+2025-04-07 13:45:08,016 - mun_scraper - INFO - Saved article: Targeted, killed, burned alive: Journalists in Gaza attacked by Israel | Gaza | Al Jazeera - Relevance: 0.38
+2025-04-07 13:45:24,034 - mun_scraper - INFO - Saved article: How did Israel kill the Red Crescent medics in Gaza? | Israel-Palestine conflict | Al Jazeera - Relevance: 0.33
+2025-04-07 13:45:28,576 - mun_scraper - INFO - Saved article: How did Israel kill the Red Crescent medics in Gaza? | Israel-Palestine conflict | Al Jazeera - Relevance: 0.33
+2025-04-07 13:45:28,577 - mun_scraper - INFO - Finished crawling https://www.aljazeera.com/news/. Processed 58 URLs.
+2025-04-07 13:45:28,577 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 13:45:28,577 - mun_scraper - INFO - Crawling source: https://www.un.org for First Committee - Creating systems to protect against state-sponsored cyber attacks
+2025-04-07 13:45:28,577 - mun_scraper - INFO - Finished crawling https://www.un.org. Processed 0 URLs.
+2025-04-07 13:45:28,577 - mun_scraper - INFO - Crawling source: https://news.un.org for First Committee - Creating systems to protect against state-sponsored cyber attacks
+2025-04-07 13:45:28,577 - mun_scraper - INFO - Finished crawling https://news.un.org. Processed 0 URLs.
+2025-04-07 13:45:28,577 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 13:45:28,577 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for First Committee - Creating systems to protect against state-sponsored cyber attacks
+2025-04-07 13:45:28,577 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 13:45:28,577 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 13:45:28,577 - mun_scraper - INFO - Crawling source: https://www.accessnow.org for First Committee - Creating systems to protect against state-sponsored cyber attacks
+2025-04-07 13:45:31,315 - mun_scraper - INFO - Saved article: Access Now - Access Now - Relevance: 0.38
+2025-04-07 13:45:34,338 - mun_scraper - INFO - Saved article: About Us - Access Now - Relevance: 0.43
+2025-04-07 13:45:37,012 - mun_scraper - INFO - Saved article: DIGITAL SECURITY HELPLINE - Access Now - Relevance: 0.52
+2025-04-07 13:45:56,811 - mun_scraper - INFO - Saved article: PLATEFORME D’ASSISTANCE POUR LA SECURITÉ NUMERIQUE - Access Now - Relevance: 0.34
+2025-04-07 13:45:58,931 - mun_scraper - INFO - Saved article: Home | RightsCon Summit Series - Relevance: 0.38
+2025-04-07 13:46:08,043 - mun_scraper - INFO - Saved article: RightsCon | LinkedIn - Relevance: 0.54
+2025-04-07 13:46:12,441 - mun_scraper - INFO - Saved article: Staying safe, secure, and healthy at RightsCon 2025 | RightsCon Summit Series - Relevance: 0.58
+2025-04-07 13:46:15,390 - mun_scraper - INFO - Saved article: Access Now Grants - Access Now - Relevance: 0.54
+2025-04-07 13:46:19,152 - mun_scraper - INFO - Saved article: List of Grantees - Access Now - Relevance: 0.32
+2025-04-07 13:46:22,945 - mun_scraper - INFO - Saved article: List of Grantees - Access Now - Relevance: 0.32
+2025-04-07 13:46:28,123 - mun_scraper - INFO - Saved article: Our Work - Access Now - Relevance: 0.45
+2025-04-07 13:46:30,899 - mun_scraper - INFO - Saved article: Artificial Intelligence - Access Now - Relevance: 0.57
+2025-04-07 13:46:33,877 - mun_scraper - INFO - Saved article: Connectivity - Access Now - Relevance: 0.32
+2025-04-07 13:46:36,853 - mun_scraper - INFO - Saved article: Content Governance - Access Now - Relevance: 0.38
+2025-04-07 13:46:39,609 - mun_scraper - INFO - Saved article: Digital Rights In The Covid-19 Fight - Access Now - Relevance: 0.32
+2025-04-07 13:46:39,609 - mun_scraper - INFO - Finished crawling https://www.accessnow.org. Processed 23 URLs.
+2025-04-07 13:46:39,610 - mun_scraper - INFO - Crawling source: https://www.amnesty.org/en/ for First Committee - Creating systems to protect against state-sponsored cyber attacks
+2025-04-07 13:46:39,610 - mun_scraper - INFO - Finished crawling https://www.amnesty.org/en/. Processed 0 URLs.
+2025-04-07 13:46:39,610 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 13:46:39,610 - mun_scraper - INFO - Crawling source: https://scholar.google.com for First Committee - Creating systems to protect against state-sponsored cyber attacks
+2025-04-07 13:46:39,610 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 13:46:39,610 - mun_scraper - INFO - Crawling source: https://www.researchgate.net for First Committee - Creating systems to protect against state-sponsored cyber attacks
+2025-04-07 13:46:39,822 - mun_scraper - WARNING - Failed to fetch https://www.researchgate.net: HTTP 403
+2025-04-07 13:46:39,823 - mun_scraper - INFO - Finished crawling https://www.researchgate.net. Processed 0 URLs.
+2025-04-07 13:46:39,823 - mun_scraper - INFO - Processing topic 3/3: Combating the rise of extremist groups in the Sahel
+2025-04-07 13:46:39,823 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 13:46:39,823 - mun_scraper - INFO - Crawling source: https://www.reuters.com for First Committee - Combating the rise of extremist groups in the Sahel
+2025-04-07 13:46:39,823 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 13:46:39,823 - mun_scraper - INFO - Crawling source: https://www.aljazeera.com/news/ for First Committee - Combating the rise of extremist groups in the Sahel
+2025-04-07 13:46:39,823 - mun_scraper - INFO - Finished crawling https://www.aljazeera.com/news/. Processed 0 URLs.
+2025-04-07 13:46:39,823 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for First Committee - Combating the rise of extremist groups in the Sahel
+2025-04-07 13:46:39,823 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 13:46:39,823 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 13:46:39,824 - mun_scraper - INFO - Crawling source: https://www.un.org for First Committee - Combating the rise of extremist groups in the Sahel
+2025-04-07 13:46:39,824 - mun_scraper - INFO - Finished crawling https://www.un.org. Processed 0 URLs.
+2025-04-07 13:46:39,824 - mun_scraper - INFO - Crawling source: https://news.un.org for First Committee - Combating the rise of extremist groups in the Sahel
+2025-04-07 13:46:39,824 - mun_scraper - INFO - Finished crawling https://news.un.org. Processed 0 URLs.
+2025-04-07 13:46:39,824 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 13:46:39,824 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for First Committee - Combating the rise of extremist groups in the Sahel
+2025-04-07 13:46:39,824 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 13:46:39,824 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 13:46:39,824 - mun_scraper - INFO - Crawling source: https://www.crisisgroup.org for First Committee - Combating the rise of extremist groups in the Sahel
+2025-04-07 13:46:42,778 - mun_scraper - INFO - Saved article: Crisis Group - Relevance: 0.40
+2025-04-07 13:46:46,928 - mun_scraper - INFO - Saved article: Latest Updates | Crisis Group - Relevance: 0.33
+2025-04-07 13:46:49,759 - mun_scraper - INFO - Saved article: Support Vital for Myanmar’s Quake Victims, Despite Military Obstacles | Crisis Group - Relevance: 0.50
+2025-04-07 13:46:52,727 - mun_scraper - INFO - Saved article: Asia | Crisis Group - Relevance: 0.33
+2025-04-07 13:46:56,168 - mun_scraper - INFO - Saved article: Support Vital for Myanmar’s Quake Victims, Despite Military Obstacles | Crisis Group - Relevance: 0.50
+2025-04-07 13:47:04,240 - mun_scraper - INFO - Saved article: A Glimmer of Peace in Syria’s North East | Crisis Group - Relevance: 0.51
+2025-04-07 13:47:07,094 - mun_scraper - INFO - Saved article: Middle East & North Africa | Crisis Group - Relevance: 0.38
+2025-04-07 13:47:10,835 - mun_scraper - INFO - Saved article: A Glimmer of Peace in Syria’s North East | Crisis Group - Relevance: 0.51
+2025-04-07 13:47:17,913 - mun_scraper - INFO - Saved article: Myanmar | Crisis Group - Relevance: 0.47
+2025-04-07 13:47:24,796 - mun_scraper - INFO - Saved article: Latest Updates | Crisis Group - Relevance: 0.31
+2025-04-07 13:47:32,689 - mun_scraper - INFO - Finished crawling https://www.crisisgroup.org. Processed 18 URLs.
+2025-04-07 13:47:32,689 - mun_scraper - INFO - Crawling source: https://www.amnesty.org/en/ for First Committee - Combating the rise of extremist groups in the Sahel
+2025-04-07 13:47:32,689 - mun_scraper - INFO - Finished crawling https://www.amnesty.org/en/. Processed 0 URLs.
+2025-04-07 13:47:32,689 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 13:47:32,689 - mun_scraper - INFO - Crawling source: https://www.jstor.org for First Committee - Combating the rise of extremist groups in the Sahel
+2025-04-07 13:47:32,689 - mun_scraper - INFO - Finished crawling https://www.jstor.org. Processed 0 URLs.
+2025-04-07 13:47:32,689 - mun_scraper - INFO - Crawling source: https://scholar.google.com for First Committee - Combating the rise of extremist groups in the Sahel
+2025-04-07 13:47:32,689 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 13:47:32,689 - mun_scraper - INFO - Processing committee: Third Committee
+2025-04-07 13:47:32,689 - mun_scraper - INFO - Processing topic 1/3: Fostering the advancement of women within education
+2025-04-07 13:47:32,689 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 13:47:32,689 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for Third Committee - Fostering the advancement of women within education
+2025-04-07 13:47:32,690 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 13:47:32,690 - mun_scraper - INFO - Crawling source: https://www.reuters.com for Third Committee - Fostering the advancement of women within education
+2025-04-07 13:47:32,690 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 13:47:32,690 - mun_scraper - INFO - Crawling source: https://www.theguardian.com/international for Third Committee - Fostering the advancement of women within education
+2025-04-07 13:47:32,690 - mun_scraper - INFO - Finished crawling https://www.theguardian.com/international. Processed 0 URLs.
+2025-04-07 13:47:32,690 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 13:47:32,690 - mun_scraper - INFO - Crawling source: https://www.unwomen.org for Third Committee - Fostering the advancement of women within education
+2025-04-07 13:47:36,968 - mun_scraper - INFO - Saved article: About UN Women | UN Women – Headquarters - Relevance: 0.60
+2025-04-07 13:47:47,717 - mun_scraper - INFO - Saved article: United Nations | Peace, dignity and equality on a healthy planet - Relevance: 0.35
+2025-04-07 13:47:52,465 - mun_scraper - WARNING - Failed to fetch https://www.unwomen.org/en/what-we-do/post-2015: HTTP 403
+2025-04-07 13:47:54,493 - mun_scraper - INFO - Saved article: Explore our latest news | UN Women – Headquarters - Relevance: 0.45
+2025-04-07 13:47:56,426 - mun_scraper - INFO - Saved article: One in four countries report backlash on women’s rights in 2024 | UN Women – Headquarters - Relevance: 0.45
+2025-04-07 13:47:58,530 - mun_scraper - INFO - Saved article: Women’s rights in review 30 years after Beijing | Publication | UN Women – Headquarters - Relevance: 0.33
+2025-04-07 13:48:04,466 - mun_scraper - INFO - Saved article: Never backing down: Women march forward for equal rights  | UN Women – Headquarters - Relevance: 0.38
+2025-04-07 13:48:06,311 - mun_scraper - INFO - Saved article: Inside the crisis you don’t see: How war impacts women’s mental health | UN Women – Headquarters - Relevance: 0.43
+2025-04-07 13:48:08,531 - mun_scraper - INFO - Saved article: Facts and figures: Women, peace, and security | UN Women – Headquarters - Relevance: 0.62
+2025-04-07 13:48:10,667 - mun_scraper - INFO - Saved article: Mental health in emergencies - Relevance: 0.35
+2025-04-07 13:48:28,223 - mun_scraper - INFO - Saved article: World Conferences on Women | UN Women – Headquarters - Relevance: 0.60
+2025-04-07 13:48:43,161 - mun_scraper - INFO - Saved article: Fourth World Conference on Women, Beijing 1995 - Relevance: 0.30
+2025-04-07 13:48:45,128 - mun_scraper - INFO - Saved article: Fourth World Conference on Women, Beijing 1995 - Relevance: 0.68
+2025-04-07 13:48:49,814 - mun_scraper - INFO - Saved article: Thirty years of the Beijing Declaration and Platform for Action: Achieving gender equality, the rights and empowerment of women and girls | UN Women – Headquarters - Relevance: 0.52
+2025-04-07 13:49:01,553 - mun_scraper - INFO - Saved article: Speech: A gender-equal world is within our reach if we choose it | UN Women – Headquarters - Relevance: 0.50
+2025-04-07 13:49:20,832 - mun_scraper - INFO - Saved article: X Terms of Service - Relevance: 0.38
+2025-04-07 13:49:20,832 - mun_scraper - INFO - Finished crawling https://www.unwomen.org. Processed 33 URLs.
+2025-04-07 13:49:20,832 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 13:49:20,832 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for Third Committee - Fostering the advancement of women within education
+2025-04-07 13:49:20,832 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 13:49:20,832 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 13:49:20,832 - mun_scraper - INFO - Crawling source: https://www.amnesty.org/en/ for Third Committee - Fostering the advancement of women within education
+2025-04-07 13:49:20,832 - mun_scraper - INFO - Finished crawling https://www.amnesty.org/en/. Processed 0 URLs.
+2025-04-07 13:49:20,832 - mun_scraper - INFO - Crawling source: https://www.plan-international.org for Third Committee - Fostering the advancement of women within education
+2025-04-07 13:49:32,332 - mun_scraper - INFO - Saved article: This is the Future Girls Want |  Plan International - Relevance: 0.30
+2025-04-07 13:49:45,484 - mun_scraper - INFO - Saved article: News |  Plan International - Relevance: 0.35
+2025-04-07 13:49:49,007 - mun_scraper - INFO - Saved article: Lessons from the rubble: Simple truths from monster earthquakes |  Plan International - Relevance: 0.33
+2025-04-07 13:50:06,467 - mun_scraper - INFO - Saved article: Girls Get Equal |  Plan International - Relevance: 0.55
+2025-04-07 13:50:10,126 - mun_scraper - INFO - Saved article: Because I am a Girl |  Plan International - Relevance: 0.33
+2025-04-07 13:50:15,786 - mun_scraper - INFO - Saved article: 5 girls’ rights under threat in 2025 |  Plan International - Relevance: 0.33
+2025-04-07 13:50:22,588 - mun_scraper - INFO - Saved article: Comprehensive sexuality education |  Plan International - Relevance: 0.50
+2025-04-07 13:50:25,089 - mun_scraper - INFO - Saved article: Girls' Education Overview - Relevance: 0.52
+2025-04-07 13:50:27,284 - mun_scraper - INFO - Saved article: Violence against children - Relevance: 0.40
+2025-04-07 13:50:32,445 - mun_scraper - INFO - Saved article: Publications |  Plan International - Relevance: 0.40
+2025-04-07 13:50:34,690 - mun_scraper - INFO - Saved article: This is the Future Girls Want |  Plan International - Relevance: 0.30
+2025-04-07 13:50:34,690 - mun_scraper - INFO - Finished crawling https://www.plan-international.org. Processed 21 URLs.
+2025-04-07 13:50:34,690 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 13:50:34,690 - mun_scraper - INFO - Crawling source: https://scholar.google.com for Third Committee - Fostering the advancement of women within education
+2025-04-07 13:50:34,690 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 13:50:34,690 - mun_scraper - INFO - Crawling source: https://www.researchgate.net for Third Committee - Fostering the advancement of women within education
+2025-04-07 13:50:34,690 - mun_scraper - INFO - Finished crawling https://www.researchgate.net. Processed 0 URLs.
+2025-04-07 13:50:34,690 - mun_scraper - INFO - Processing topic 2/3: Upholding the international criminal justice system for public safety
+2025-04-07 13:50:34,690 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 13:50:34,690 - mun_scraper - INFO - Crawling source: https://www.reuters.com for Third Committee - Upholding the international criminal justice system for public safety
+2025-04-07 13:50:34,690 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 13:50:34,690 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for Third Committee - Upholding the international criminal justice system for public safety
+2025-04-07 13:50:34,690 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 13:50:34,690 - mun_scraper - INFO - Crawling source: https://www.aljazeera.com/news/ for Third Committee - Upholding the international criminal justice system for public safety
+2025-04-07 13:50:34,690 - mun_scraper - INFO - Finished crawling https://www.aljazeera.com/news/. Processed 0 URLs.
+2025-04-07 13:50:34,690 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 13:50:34,690 - mun_scraper - INFO - Crawling source: https://www.icj-cij.org for Third Committee - Upholding the international criminal justice system for public safety
+2025-04-07 13:50:51,292 - mun_scraper - INFO - Saved article: Obligations of Israel in relation to the Presence and Activities of the United Nations, Other International Or - Relevance: 0.51
+2025-04-07 13:50:58,090 - mun_scraper - WARNING - Failed to fetch https://www.icj-cij.org/fr/affaire/184 : HTTP 404
+2025-04-07 13:50:59,118 - mun_scraper - WARNING - Failed to fetch https://www.icj-cij.org/fr/affaire/190 : HTTP 404
+2025-04-07 13:51:00,136 - mun_scraper - WARNING - Failed to fetch https://www.icj-cij.org/fr/affaire/196 : HTTP 404
+2025-04-07 13:51:02,936 - mun_scraper - INFO - Saved article: Home | INTERNATIONAL COURT OF JUSTICE - Relevance: 0.54
+2025-04-07 13:51:10,575 - mun_scraper - INFO - Saved article: Judgments, Advisory Opinions and Orders | INTERNATIONAL COURT OF JUSTICE - Relevance: 0.42
+2025-04-07 13:51:11,391 - mun_scraper - WARNING - Failed to fetch https://www.icj-cij.org/case/184 : HTTP 500
+2025-04-07 13:51:11,903 - mun_scraper - WARNING - Failed to fetch https://www.icj-cij.org/case/190 : HTTP 500
+2025-04-07 13:51:12,722 - mun_scraper - WARNING - Failed to fetch https://www.icj-cij.org/case/196 : HTTP 500
+2025-04-07 13:51:32,023 - mun_scraper - WARNING - Failed to fetch https://www.icj-cij.org/sites/default/files/multimedia-galleries/icj/v_icj_ar.mp4: HTTP 403
+2025-04-07 13:51:32,183 - mun_scraper - WARNING - Failed to fetch http://www.un.org/en/ga/search/view_doc.asp?symbol=A/68/963&referer=/english/&Lang=A: HTTP 403
+2025-04-07 13:51:32,184 - mun_scraper - INFO - Finished crawling https://www.icj-cij.org. Processed 18 URLs.
+2025-04-07 13:51:32,184 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 13:51:32,184 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for Third Committee - Upholding the international criminal justice system for public safety
+2025-04-07 13:51:32,184 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 13:51:32,184 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 13:51:32,185 - mun_scraper - INFO - Crawling source: https://www.amnesty.org/en/ for Third Committee - Upholding the international criminal justice system for public safety
+2025-04-07 13:51:32,185 - mun_scraper - INFO - Finished crawling https://www.amnesty.org/en/. Processed 0 URLs.
+2025-04-07 13:51:32,185 - mun_scraper - INFO - Crawling source: https://www.hrw.org for Third Committee - Upholding the international criminal justice system for public safety
+2025-04-07 13:51:32,185 - mun_scraper - INFO - Finished crawling https://www.hrw.org. Processed 0 URLs.
+2025-04-07 13:51:32,185 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 13:51:32,185 - mun_scraper - INFO - Crawling source: https://www.jstor.org for Third Committee - Upholding the international criminal justice system for public safety
+2025-04-07 13:51:32,185 - mun_scraper - INFO - Finished crawling https://www.jstor.org. Processed 0 URLs.
+2025-04-07 13:51:32,185 - mun_scraper - INFO - Crawling source: https://scholar.google.com for Third Committee - Upholding the international criminal justice system for public safety
+2025-04-07 13:51:32,185 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 13:51:32,185 - mun_scraper - INFO - Processing topic 3/3: Affirming the rights of communities displaced by violence
+2025-04-07 13:51:32,185 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 13:51:32,185 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for Third Committee - Affirming the rights of communities displaced by violence
+2025-04-07 13:51:32,185 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 13:51:32,185 - mun_scraper - INFO - Crawling source: https://www.reuters.com for Third Committee - Affirming the rights of communities displaced by violence
+2025-04-07 13:51:32,185 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 13:51:32,185 - mun_scraper - INFO - Crawling source: https://www.theguardian.com/international for Third Committee - Affirming the rights of communities displaced by violence
+2025-04-07 13:51:32,185 - mun_scraper - INFO - Finished crawling https://www.theguardian.com/international. Processed 0 URLs.
+2025-04-07 13:51:32,185 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 13:51:32,185 - mun_scraper - INFO - Crawling source: https://www.unhcr.org for Third Committee - Affirming the rights of communities displaced by violence
+2025-04-07 13:51:32,671 - mun_scraper - WARNING - Failed to fetch https://www.unhcr.org: HTTP 403
+2025-04-07 13:51:32,671 - mun_scraper - INFO - Finished crawling https://www.unhcr.org. Processed 0 URLs.
+2025-04-07 13:51:32,671 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 13:51:32,671 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for Third Committee - Affirming the rights of communities displaced by violence
+2025-04-07 13:51:32,671 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 13:51:32,672 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 13:51:32,672 - mun_scraper - INFO - Crawling source: https://www.rescue.org for Third Committee - Affirming the rights of communities displaced by violence
+2025-04-07 13:51:34,649 - mun_scraper - INFO - Saved article: International Rescue Committee | International Rescue Committee (IRC) - Relevance: 0.38
+2025-04-07 13:51:36,776 - mun_scraper - INFO - Saved article: International Rescue Committee | International Rescue Committee (IRC) - Relevance: 0.38
+2025-04-07 13:51:39,092 - mun_scraper - INFO - Saved article: Myanmar earthquake: What’s happening and how to help? - Relevance: 0.48
+2025-04-07 13:51:47,915 - mun_scraper - INFO - Saved article: Myanmar Earthquake: IRC Teams Report Unprecedented Destruction | International Rescue Committee (IRC) - Relevance: 0.34
+2025-04-07 13:51:52,331 - mun_scraper - INFO - Saved article: Myanmar earthquake: What’s happening and how to help? - Relevance: 0.48
+2025-04-07 13:51:56,536 - mun_scraper - WARNING - Failed to fetch https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.rescue.org%2Farticle%2Fmeet-duha-nurse-worlds-largest-syrian-refugee-camp: HTTP 400
+2025-04-07 13:52:02,500 - mun_scraper - INFO - Saved article: Situation Syria Regional Refugee Response - Relevance: 0.43
+2025-04-07 13:52:08,338 - mun_scraper - INFO - Saved article: Home Page - Qatar Fund For Development - Relevance: 0.67
+2025-04-07 13:52:10,485 - mun_scraper - INFO - Saved article: U.S. aid cuts put millions in peril | International Rescue Committee (IRC) - Relevance: 0.45
+2025-04-07 13:52:13,074 - mun_scraper - WARNING - Failed to fetch https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.rescue.org%2Farticle%2Fus-aid-cuts-put-millions-peril: HTTP 400
+2025-04-07 13:52:17,626 - mun_scraper - INFO - Saved article: Terminations of USAID and State Department Programs: Massive Impact for IRC Clients | International Rescue Committee (IRC) - Relevance: 0.34
+2025-04-07 13:52:22,047 - mun_scraper - INFO - Saved article: Latest | International Rescue Committee (IRC) - Relevance: 0.30
+2025-04-07 13:52:24,139 - mun_scraper - INFO - Saved article: A decade of war: 10 voices from Yemen | International Rescue Committee (IRC) - Relevance: 0.41
+2025-04-07 13:52:27,988 - mun_scraper - INFO - Finished crawling https://www.rescue.org. Processed 22 URLs.
+2025-04-07 13:52:27,988 - mun_scraper - INFO - Crawling source: https://www.amnesty.org/en/ for Third Committee - Affirming the rights of communities displaced by violence
+2025-04-07 13:52:27,988 - mun_scraper - INFO - Finished crawling https://www.amnesty.org/en/. Processed 0 URLs.
+2025-04-07 13:52:27,988 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 13:52:27,988 - mun_scraper - INFO - Crawling source: https://scholar.google.com for Third Committee - Affirming the rights of communities displaced by violence
+2025-04-07 13:52:27,988 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 13:52:27,988 - mun_scraper - INFO - Crawling source: https://www.jstor.org for Third Committee - Affirming the rights of communities displaced by violence
+2025-04-07 13:52:27,988 - mun_scraper - INFO - Finished crawling https://www.jstor.org. Processed 0 URLs.
+2025-04-07 13:52:27,988 - mun_scraper - INFO - Processing committee: Fourth Committee
+2025-04-07 13:52:27,988 - mun_scraper - INFO - Processing topic 1/3: Ensuring the rights and safety of indigenous populations
+2025-04-07 13:52:27,988 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 13:52:27,988 - mun_scraper - INFO - Crawling source: https://www.reuters.com for Fourth Committee - Ensuring the rights and safety of indigenous populations
+2025-04-07 13:52:27,989 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 13:52:27,989 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for Fourth Committee - Ensuring the rights and safety of indigenous populations
+2025-04-07 13:52:27,989 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 13:52:27,989 - mun_scraper - INFO - Crawling source: https://www.theguardian.com/international for Fourth Committee - Ensuring the rights and safety of indigenous populations
+2025-04-07 13:52:27,989 - mun_scraper - INFO - Finished crawling https://www.theguardian.com/international. Processed 0 URLs.
+2025-04-07 13:52:27,989 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 13:52:27,989 - mun_scraper - INFO - Crawling source: https://www.un.org/development/desa/indigenouspeoples/ for Fourth Committee - Ensuring the rights and safety of indigenous populations
+2025-04-07 13:52:32,762 - mun_scraper - INFO - Saved article: United Nations DESA Programme on Indigenous Peoples | Division for Inclusive Social Development (DISD) - Relevance: 0.45
+2025-04-07 13:52:35,516 - mun_scraper - INFO - Saved article: A to Z Site Index | United Nations - Relevance: 0.67
+2025-04-07 13:52:37,646 - mun_scraper - INFO - Saved article: About Us | United Nations - Relevance: 0.40
+2025-04-07 13:52:40,206 - mun_scraper - INFO - Saved article: Member States | United Nations - Relevance: 0.40
+2025-04-07 13:52:42,689 - mun_scraper - INFO - Saved article: Our Work | United Nations - Relevance: 0.40
+2025-04-07 13:52:45,439 - mun_scraper - INFO - Saved article: UN Charter | United Nations - Relevance: 0.40
+2025-04-07 13:52:50,176 - mun_scraper - INFO - Saved article: Growth in United Nations membership | United Nations - Relevance: 0.40
+2025-04-07 13:52:55,817 - mun_scraper - INFO - Saved article: Convention on the Rights of Persons with Disabilities - Articles | Division for Inclusive Social Development (DISD) - Relevance: 0.43
+2025-04-07 13:52:58,467 - mun_scraper - INFO - Saved article: Education - United Nations Sustainable Development - Relevance: 0.40
+2025-04-07 13:53:01,150 - mun_scraper - INFO - Saved article: Economic Growth - United Nations Sustainable Development - Relevance: 0.47
+2025-04-07 13:53:03,978 - mun_scraper - INFO - Saved article: Reduce inequality within and among countries - United Nations Sustainable Development - Relevance: 0.33
+2025-04-07 13:53:12,082 - mun_scraper - INFO - Saved article: 4th International Conference on Financing for Development - Relevance: 0.38
+2025-04-07 13:53:20,824 - mun_scraper - INFO - Saved article: Secretary-Generalâs Initiative on Action for Peacekeeping - Relevance: 0.60
+2025-04-07 13:53:28,802 - mun_scraper - INFO - Saved article: Action for Peacekeeping (A4P) | United Nations Peacekeeping - Relevance: 0.40
+2025-04-07 13:53:46,994 - mun_scraper - INFO - Saved article: About Us | United Nations - Relevance: 0.40
+2025-04-07 13:53:46,995 - mun_scraper - INFO - Finished crawling https://www.un.org/development/desa/indigenouspeoples/. Processed 29 URLs.
+2025-04-07 13:53:46,995 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 13:53:46,995 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for Fourth Committee - Ensuring the rights and safety of indigenous populations
+2025-04-07 13:53:46,995 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 13:53:46,995 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 13:53:46,995 - mun_scraper - INFO - Crawling source: https://www.survivalinternational.org for Fourth Committee - Ensuring the rights and safety of indigenous populations
+2025-04-07 13:53:51,358 - mun_scraper - WARNING - Error fetching https://www.survivalinternational.org: Exceeded 30 redirects.
+2025-04-07 13:53:51,358 - mun_scraper - INFO - Finished crawling https://www.survivalinternational.org. Processed 0 URLs.
+2025-04-07 13:53:51,358 - mun_scraper - INFO - Crawling source: https://www.amnesty.org/en/ for Fourth Committee - Ensuring the rights and safety of indigenous populations
+2025-04-07 13:53:51,358 - mun_scraper - INFO - Finished crawling https://www.amnesty.org/en/. Processed 0 URLs.
+2025-04-07 13:53:51,358 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 13:53:51,359 - mun_scraper - INFO - Crawling source: https://www.jstor.org for Fourth Committee - Ensuring the rights and safety of indigenous populations
+2025-04-07 13:53:51,359 - mun_scraper - INFO - Finished crawling https://www.jstor.org. Processed 0 URLs.
+2025-04-07 13:53:51,359 - mun_scraper - INFO - Crawling source: https://scholar.google.com for Fourth Committee - Ensuring the rights and safety of indigenous populations
+2025-04-07 13:53:51,359 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 13:53:51,359 - mun_scraper - INFO - Processing topic 2/3: Providing viable solutions for long-term refugee resettlement
+2025-04-07 13:53:51,359 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 13:53:51,359 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for Fourth Committee - Providing viable solutions for long-term refugee resettlement
+2025-04-07 13:53:51,359 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 13:53:51,359 - mun_scraper - INFO - Crawling source: https://www.reuters.com for Fourth Committee - Providing viable solutions for long-term refugee resettlement
+2025-04-07 13:53:51,359 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 13:53:51,359 - mun_scraper - INFO - Crawling source: https://www.theguardian.com/international for Fourth Committee - Providing viable solutions for long-term refugee resettlement
+2025-04-07 13:53:51,359 - mun_scraper - INFO - Finished crawling https://www.theguardian.com/international. Processed 0 URLs.
+2025-04-07 13:53:51,359 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 13:53:51,359 - mun_scraper - INFO - Crawling source: https://www.unhcr.org for Fourth Committee - Providing viable solutions for long-term refugee resettlement
+2025-04-07 13:53:51,359 - mun_scraper - INFO - Finished crawling https://www.unhcr.org. Processed 0 URLs.
+2025-04-07 13:53:51,359 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 13:53:51,359 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for Fourth Committee - Providing viable solutions for long-term refugee resettlement
+2025-04-07 13:53:51,359 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 13:53:51,359 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 13:53:51,359 - mun_scraper - INFO - Crawling source: https://www.rescue.org for Fourth Committee - Providing viable solutions for long-term refugee resettlement
+2025-04-07 13:53:51,360 - mun_scraper - INFO - Finished crawling https://www.rescue.org. Processed 0 URLs.
+2025-04-07 13:53:51,360 - mun_scraper - INFO - Crawling source: https://www.oxfam.org/en for Fourth Committee - Providing viable solutions for long-term refugee resettlement
+2025-04-07 13:54:09,333 - mun_scraper - INFO - Finished crawling https://www.oxfam.org/en. Processed 6 URLs.
+2025-04-07 13:54:09,333 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 13:54:09,333 - mun_scraper - INFO - Crawling source: https://scholar.google.com for Fourth Committee - Providing viable solutions for long-term refugee resettlement
+2025-04-07 13:54:09,333 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 13:54:09,333 - mun_scraper - INFO - Crawling source: https://www.researchgate.net for Fourth Committee - Providing viable solutions for long-term refugee resettlement
+2025-04-07 13:54:09,333 - mun_scraper - INFO - Finished crawling https://www.researchgate.net. Processed 0 URLs.
+2025-04-07 13:54:09,333 - mun_scraper - INFO - Processing topic 3/3: Preventing the militarization of outer space
+2025-04-07 13:54:09,333 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 13:54:09,333 - mun_scraper - INFO - Crawling source: https://www.reuters.com for Fourth Committee - Preventing the militarization of outer space
+2025-04-07 13:54:09,333 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 13:54:09,333 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for Fourth Committee - Preventing the militarization of outer space
+2025-04-07 13:54:09,333 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 13:54:09,333 - mun_scraper - INFO - Crawling source: https://www.aljazeera.com/news/ for Fourth Committee - Preventing the militarization of outer space
+2025-04-07 13:54:09,333 - mun_scraper - INFO - Finished crawling https://www.aljazeera.com/news/. Processed 0 URLs.
+2025-04-07 13:54:09,333 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 13:54:09,333 - mun_scraper - INFO - Crawling source: https://www.unoosa.org for Fourth Committee - Preventing the militarization of outer space
+2025-04-07 13:54:12,962 - mun_scraper - INFO - Saved article: UNOOSA - Relevance: 0.56
+2025-04-07 13:54:15,903 - mun_scraper - INFO - Saved article: UNOOSA - Relevance: 0.56
+2025-04-07 13:54:26,617 - mun_scraper - WARNING - Failed to fetch https://www.facebook.com/UNOOSA: HTTP 400
+2025-04-07 13:54:51,064 - mun_scraper - INFO - Finished crawling https://www.unoosa.org. Processed 16 URLs.
+2025-04-07 13:54:51,066 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 13:54:51,066 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for Fourth Committee - Preventing the militarization of outer space
+2025-04-07 13:54:51,066 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 13:54:51,066 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 13:54:51,066 - mun_scraper - INFO - Crawling source: https://www.swfound.org for Fourth Committee - Preventing the militarization of outer space
+2025-04-07 13:54:57,765 - mun_scraper - INFO - Saved article: Promoting Cooperative Solutions for Space Sustainability | Secure World - Relevance: 0.51
+2025-04-07 13:55:04,180 - mun_scraper - INFO - Saved article: Promoting Cooperative Solutions for Space Sustainability | Secure World - Relevance: 0.51
+2025-04-07 13:55:11,309 - mun_scraper - INFO - Saved article: Our Offices | Secure World - Relevance: 0.51
+2025-04-07 13:55:21,230 - mun_scraper - INFO - Saved article: News | Secure World - Relevance: 0.51
+2025-04-07 13:55:25,696 - mun_scraper - INFO - Saved article: News | Secure World - Relevance: 0.51
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Finished crawling https://www.swfound.org. Processed 5 URLs.
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Crawling source: https://www.jstor.org for Fourth Committee - Preventing the militarization of outer space
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Finished crawling https://www.jstor.org. Processed 0 URLs.
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Crawling source: https://scholar.google.com for Fourth Committee - Preventing the militarization of outer space
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Processing committee: Sixth Committee
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Processing topic 1/3: Assessing the legal measures of international organizations
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Crawling source: https://www.reuters.com for Sixth Committee - Assessing the legal measures of international organizations
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for Sixth Committee - Assessing the legal measures of international organizations
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Crawling source: https://www.theguardian.com/international for Sixth Committee - Assessing the legal measures of international organizations
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Finished crawling https://www.theguardian.com/international. Processed 0 URLs.
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Crawling source: https://www.un.org for Sixth Committee - Assessing the legal measures of international organizations
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Finished crawling https://www.un.org. Processed 0 URLs.
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Crawling source: https://news.un.org for Sixth Committee - Assessing the legal measures of international organizations
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Finished crawling https://news.un.org. Processed 0 URLs.
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for Sixth Committee - Assessing the legal measures of international organizations
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Crawling source: https://www.amnesty.org/en/ for Sixth Committee - Assessing the legal measures of international organizations
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Finished crawling https://www.amnesty.org/en/. Processed 0 URLs.
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Crawling source: https://www.hrw.org for Sixth Committee - Assessing the legal measures of international organizations
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Finished crawling https://www.hrw.org. Processed 0 URLs.
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Crawling source: https://scholar.google.com for Sixth Committee - Assessing the legal measures of international organizations
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Crawling source: https://www.researchgate.net for Sixth Committee - Assessing the legal measures of international organizations
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Finished crawling https://www.researchgate.net. Processed 0 URLs.
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Processing topic 2/3: Preventing crimes against internationally protected persons
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Crawling source: https://www.reuters.com for Sixth Committee - Preventing crimes against internationally protected persons
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for Sixth Committee - Preventing crimes against internationally protected persons
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Crawling source: https://www.aljazeera.com/news/ for Sixth Committee - Preventing crimes against internationally protected persons
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Finished crawling https://www.aljazeera.com/news/. Processed 0 URLs.
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 13:55:25,697 - mun_scraper - INFO - Crawling source: https://www.ohchr.org for Sixth Committee - Preventing crimes against internationally protected persons
+2025-04-07 13:55:26,454 - mun_scraper - WARNING - Failed to fetch https://www.ohchr.org: HTTP 403
+2025-04-07 13:55:26,454 - mun_scraper - INFO - Finished crawling https://www.ohchr.org. Processed 0 URLs.
+2025-04-07 13:55:26,455 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 13:55:26,455 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for Sixth Committee - Preventing crimes against internationally protected persons
+2025-04-07 13:55:26,455 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 13:55:26,455 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 13:55:26,455 - mun_scraper - INFO - Crawling source: https://www.hrw.org for Sixth Committee - Preventing crimes against internationally protected persons
+2025-04-07 13:55:26,455 - mun_scraper - INFO - Finished crawling https://www.hrw.org. Processed 0 URLs.
+2025-04-07 13:55:26,455 - mun_scraper - INFO - Crawling source: https://www.amnesty.org/en/ for Sixth Committee - Preventing crimes against internationally protected persons
+2025-04-07 13:55:26,455 - mun_scraper - INFO - Finished crawling https://www.amnesty.org/en/. Processed 0 URLs.
+2025-04-07 13:55:26,455 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 13:55:26,455 - mun_scraper - INFO - Crawling source: https://www.jstor.org for Sixth Committee - Preventing crimes against internationally protected persons
+2025-04-07 13:55:26,455 - mun_scraper - INFO - Finished crawling https://www.jstor.org. Processed 0 URLs.
+2025-04-07 13:55:26,455 - mun_scraper - INFO - Crawling source: https://scholar.google.com for Sixth Committee - Preventing crimes against internationally protected persons
+2025-04-07 13:55:26,456 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 13:55:26,456 - mun_scraper - INFO - Processing topic 3/3: Implementing universal jurisdiction across conflict zones
+2025-04-07 13:55:26,456 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 13:55:26,456 - mun_scraper - INFO - Crawling source: https://www.reuters.com for Sixth Committee - Implementing universal jurisdiction across conflict zones
+2025-04-07 13:55:26,456 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 13:55:26,456 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for Sixth Committee - Implementing universal jurisdiction across conflict zones
+2025-04-07 13:55:26,456 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 13:55:26,456 - mun_scraper - INFO - Crawling source: https://www.theguardian.com/international for Sixth Committee - Implementing universal jurisdiction across conflict zones
+2025-04-07 13:55:26,456 - mun_scraper - INFO - Finished crawling https://www.theguardian.com/international. Processed 0 URLs.
+2025-04-07 13:55:26,456 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 13:55:26,456 - mun_scraper - INFO - Crawling source: https://www.un.org for Sixth Committee - Implementing universal jurisdiction across conflict zones
+2025-04-07 13:55:26,456 - mun_scraper - INFO - Finished crawling https://www.un.org. Processed 0 URLs.
+2025-04-07 13:55:26,456 - mun_scraper - INFO - Crawling source: https://news.un.org for Sixth Committee - Implementing universal jurisdiction across conflict zones
+2025-04-07 13:55:26,456 - mun_scraper - INFO - Finished crawling https://news.un.org. Processed 0 URLs.
+2025-04-07 13:55:26,456 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 13:55:26,456 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for Sixth Committee - Implementing universal jurisdiction across conflict zones
+2025-04-07 13:55:26,456 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 13:55:26,456 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 13:55:26,456 - mun_scraper - INFO - Crawling source: https://www.amnesty.org/en/ for Sixth Committee - Implementing universal jurisdiction across conflict zones
+2025-04-07 13:55:26,456 - mun_scraper - INFO - Finished crawling https://www.amnesty.org/en/. Processed 0 URLs.
+2025-04-07 13:55:26,456 - mun_scraper - INFO - Crawling source: https://www.hrw.org for Sixth Committee - Implementing universal jurisdiction across conflict zones
+2025-04-07 13:55:26,456 - mun_scraper - INFO - Finished crawling https://www.hrw.org. Processed 0 URLs.
+2025-04-07 13:55:26,456 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 13:55:26,457 - mun_scraper - INFO - Crawling source: https://scholar.google.com for Sixth Committee - Implementing universal jurisdiction across conflict zones
+2025-04-07 13:55:26,457 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 13:55:26,457 - mun_scraper - INFO - Crawling source: https://www.jstor.org for Sixth Committee - Implementing universal jurisdiction across conflict zones
+2025-04-07 13:55:26,457 - mun_scraper - INFO - Finished crawling https://www.jstor.org. Processed 0 URLs.
+2025-04-07 13:55:26,457 - mun_scraper - INFO - Processing committee: United Nations Development Programme
+2025-04-07 13:55:26,457 - mun_scraper - INFO - Processing topic 1/3: Narrowing the gender gap
+2025-04-07 13:55:26,457 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 13:55:26,457 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for United Nations Development Programme - Narrowing the gender gap
+2025-04-07 13:55:26,457 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 13:55:26,457 - mun_scraper - INFO - Crawling source: https://www.reuters.com for United Nations Development Programme - Narrowing the gender gap
+2025-04-07 13:55:26,457 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 13:55:26,457 - mun_scraper - INFO - Crawling source: https://www.theguardian.com/international for United Nations Development Programme - Narrowing the gender gap
+2025-04-07 13:55:26,457 - mun_scraper - INFO - Finished crawling https://www.theguardian.com/international. Processed 0 URLs.
+2025-04-07 13:55:26,457 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 13:55:26,458 - mun_scraper - INFO - Crawling source: https://www.unwomen.org for United Nations Development Programme - Narrowing the gender gap
+2025-04-07 13:55:26,458 - mun_scraper - INFO - Finished crawling https://www.unwomen.org. Processed 0 URLs.
+2025-04-07 13:55:26,458 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 13:55:26,458 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for United Nations Development Programme - Narrowing the gender gap
+2025-04-07 13:55:26,458 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 13:55:26,458 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 13:55:26,458 - mun_scraper - INFO - Crawling source: https://www.amnesty.org/en/ for United Nations Development Programme - Narrowing the gender gap
+2025-04-07 13:55:26,458 - mun_scraper - INFO - Finished crawling https://www.amnesty.org/en/. Processed 0 URLs.
+2025-04-07 13:55:26,458 - mun_scraper - INFO - Crawling source: https://www.oxfam.org/en for United Nations Development Programme - Narrowing the gender gap
+2025-04-07 13:55:26,458 - mun_scraper - INFO - Finished crawling https://www.oxfam.org/en. Processed 0 URLs.
+2025-04-07 13:55:26,458 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 13:55:26,458 - mun_scraper - INFO - Crawling source: https://scholar.google.com for United Nations Development Programme - Narrowing the gender gap
+2025-04-07 13:55:26,458 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 13:55:26,458 - mun_scraper - INFO - Crawling source: https://www.jstor.org for United Nations Development Programme - Narrowing the gender gap
+2025-04-07 13:55:26,459 - mun_scraper - INFO - Finished crawling https://www.jstor.org. Processed 0 URLs.
+2025-04-07 13:55:26,459 - mun_scraper - INFO - Processing topic 2/3: Providing aid to developing countries in conflict
+2025-04-07 13:55:26,459 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 13:55:26,459 - mun_scraper - INFO - Crawling source: https://www.reuters.com for United Nations Development Programme - Providing aid to developing countries in conflict
+2025-04-07 13:55:26,459 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 13:55:26,459 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for United Nations Development Programme - Providing aid to developing countries in conflict
+2025-04-07 13:55:26,459 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 13:55:26,459 - mun_scraper - INFO - Crawling source: https://www.aljazeera.com/news/ for United Nations Development Programme - Providing aid to developing countries in conflict
+2025-04-07 13:55:26,459 - mun_scraper - INFO - Finished crawling https://www.aljazeera.com/news/. Processed 0 URLs.
+2025-04-07 13:55:26,459 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 13:55:26,459 - mun_scraper - INFO - Crawling source: https://www.un.org for United Nations Development Programme - Providing aid to developing countries in conflict
+2025-04-07 13:55:26,459 - mun_scraper - INFO - Finished crawling https://www.un.org. Processed 0 URLs.
+2025-04-07 13:55:26,459 - mun_scraper - INFO - Crawling source: https://news.un.org for United Nations Development Programme - Providing aid to developing countries in conflict
+2025-04-07 13:55:26,459 - mun_scraper - INFO - Finished crawling https://news.un.org. Processed 0 URLs.
+2025-04-07 13:55:26,459 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 13:55:26,459 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for United Nations Development Programme - Providing aid to developing countries in conflict
+2025-04-07 13:55:26,459 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 13:55:26,459 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 13:55:26,460 - mun_scraper - INFO - Crawling source: https://www.rescue.org for United Nations Development Programme - Providing aid to developing countries in conflict
+2025-04-07 13:55:26,460 - mun_scraper - INFO - Finished crawling https://www.rescue.org. Processed 0 URLs.
+2025-04-07 13:55:26,460 - mun_scraper - INFO - Crawling source: https://www.oxfam.org/en for United Nations Development Programme - Providing aid to developing countries in conflict
+2025-04-07 13:55:26,460 - mun_scraper - INFO - Finished crawling https://www.oxfam.org/en. Processed 0 URLs.
+2025-04-07 13:55:26,460 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 13:55:26,460 - mun_scraper - INFO - Crawling source: https://scholar.google.com for United Nations Development Programme - Providing aid to developing countries in conflict
+2025-04-07 13:55:26,460 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 13:55:26,460 - mun_scraper - INFO - Crawling source: https://www.researchgate.net for United Nations Development Programme - Providing aid to developing countries in conflict
+2025-04-07 13:55:26,460 - mun_scraper - INFO - Finished crawling https://www.researchgate.net. Processed 0 URLs.
+2025-04-07 13:55:26,460 - mun_scraper - INFO - Processing topic 3/3: Guaranteeing nutritional food sources
+2025-04-07 13:55:26,460 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 13:55:26,460 - mun_scraper - INFO - Crawling source: https://www.reuters.com for United Nations Development Programme - Guaranteeing nutritional food sources
+2025-04-07 13:55:26,460 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 13:55:26,461 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for United Nations Development Programme - Guaranteeing nutritional food sources
+2025-04-07 13:55:26,461 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 13:55:26,461 - mun_scraper - INFO - Crawling source: https://www.theguardian.com/international for United Nations Development Programme - Guaranteeing nutritional food sources
+2025-04-07 13:55:26,461 - mun_scraper - INFO - Finished crawling https://www.theguardian.com/international. Processed 0 URLs.
+2025-04-07 13:55:26,461 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 13:55:26,461 - mun_scraper - INFO - Crawling source: https://www.fao.org for United Nations Development Programme - Guaranteeing nutritional food sources
+2025-04-07 13:55:28,685 - mun_scraper - INFO - Saved article: Home | Food and Agriculture Organization of the United Nations - Relevance: 0.58
+2025-04-07 13:55:31,085 - mun_scraper - WARNING - Failed to fetch https://www.facebook.com/: HTTP 400
+2025-04-07 13:55:31,228 - mun_scraper - WARNING - Failed to fetch https://www.facebook.com/recover/initiate?lwv=110&ars=royal_blue_bar: HTTP 400
+2025-04-07 13:55:39,553 - mun_scraper - INFO - Saved article: Meta Terms of Service - Relevance: 0.30
+2025-04-07 13:55:39,693 - mun_scraper - WARNING - Failed to fetch https://www.facebook.com/about/privacy/update: HTTP 400
+2025-04-07 13:55:41,993 - mun_scraper - WARNING - Failed to fetch https://www.facebook.com/login/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzQ0MDU5MzMxLCJjYWxsc2l0ZV9pZCI6MjY5NTQ4NDUzMDcyMDk1MX0%3D: HTTP 400
+2025-04-07 13:55:42,135 - mun_scraper - WARNING - Failed to fetch https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.fao.org%2Fhome%2Fen: HTTP 400
+2025-04-07 13:58:00,850 - mun_scraper - INFO - Finished crawling https://www.fao.org. Processed 40 URLs.
+2025-04-07 13:58:00,852 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 13:58:00,852 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for United Nations Development Programme - Guaranteeing nutritional food sources
+2025-04-07 13:58:00,852 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 13:58:00,852 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 13:58:00,852 - mun_scraper - INFO - Crawling source: https://www.oxfam.org/en for United Nations Development Programme - Guaranteeing nutritional food sources
+2025-04-07 13:58:00,852 - mun_scraper - INFO - Finished crawling https://www.oxfam.org/en. Processed 0 URLs.
+2025-04-07 13:58:00,852 - mun_scraper - INFO - Crawling source: https://www.amnesty.org/en/ for United Nations Development Programme - Guaranteeing nutritional food sources
+2025-04-07 13:58:00,852 - mun_scraper - INFO - Finished crawling https://www.amnesty.org/en/. Processed 0 URLs.
+2025-04-07 13:58:00,852 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 13:58:00,852 - mun_scraper - INFO - Crawling source: https://www.jstor.org for United Nations Development Programme - Guaranteeing nutritional food sources
+2025-04-07 13:58:00,852 - mun_scraper - INFO - Finished crawling https://www.jstor.org. Processed 0 URLs.
+2025-04-07 13:58:00,852 - mun_scraper - INFO - Crawling source: https://scholar.google.com for United Nations Development Programme - Guaranteeing nutritional food sources
+2025-04-07 13:58:00,852 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 13:58:00,852 - mun_scraper - INFO - Processing committee: World Health Organization
+2025-04-07 13:58:00,852 - mun_scraper - INFO - Processing topic 1/3: Regulation of pandemics and global regulations for lockdowns
+2025-04-07 13:58:00,852 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 13:58:00,852 - mun_scraper - INFO - Crawling source: https://www.reuters.com for World Health Organization - Regulation of pandemics and global regulations for lockdowns
+2025-04-07 13:58:00,852 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 13:58:00,852 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for World Health Organization - Regulation of pandemics and global regulations for lockdowns
+2025-04-07 13:58:00,852 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 13:58:00,852 - mun_scraper - INFO - Crawling source: https://www.aljazeera.com/news/ for World Health Organization - Regulation of pandemics and global regulations for lockdowns
+2025-04-07 13:58:00,852 - mun_scraper - INFO - Finished crawling https://www.aljazeera.com/news/. Processed 0 URLs.
+2025-04-07 13:58:00,852 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 13:58:00,852 - mun_scraper - INFO - Crawling source: https://www.who.int for World Health Organization - Regulation of pandemics and global regulations for lockdowns
+2025-04-07 13:58:02,773 - mun_scraper - INFO - Saved article: World Health Organization (WHO) - Relevance: 0.38
+2025-04-07 13:58:04,909 - mun_scraper - INFO - Saved article: World Health Day 2025 - Relevance: 0.38
+2025-04-07 13:58:09,806 - mun_scraper - INFO - Saved article: Events Hub - Relevance: 0.33
+2025-04-07 13:58:11,746 - mun_scraper - INFO - Saved article: PMNCH -  Partnership for Maternal, Newborn and Child Health - Relevance: 0.35
+2025-04-07 13:58:20,018 - mun_scraper - INFO - Saved article: World Water Day 2025: Glacier Preservation and Health - Relevance: 0.30
+2025-04-07 13:58:24,777 - mun_scraper - INFO - Saved article: ONE WORLD | Contribute to Global Health - Relevance: 0.34
+2025-04-07 13:58:31,690 - mun_scraper - INFO - Saved article: WHO Foundation - Relevance: 0.44
+2025-04-07 13:58:33,777 - mun_scraper - INFO - Saved article: World Health Organization (WHO) - Relevance: 0.38
+2025-04-07 13:58:38,114 - mun_scraper - INFO - Saved article: World health Day 2025 - key messages - Relevance: 0.40
+2025-04-07 13:58:40,602 - mun_scraper - INFO - Saved article: More than a third of women experience lasting health problems after childbirth, new research shows - Relevance: 0.47
+2025-04-07 13:58:45,505 - mun_scraper - INFO - Saved article: Maternal health - Relevance: 0.42
+2025-04-07 13:58:47,709 - mun_scraper - INFO - Saved article: Newborn health - Relevance: 0.47
+2025-04-07 13:58:51,001 - mun_scraper - INFO - Saved article: Donate to WHO - Relevance: 0.44
+2025-04-07 13:58:56,872 - mun_scraper - INFO - Saved article: Clinical management of rape and intimate partner violence in emergencies: a training curriculum for health workers, facilitator guide - Relevance: 0.38
+2025-04-07 13:58:59,707 - mun_scraper - INFO - Saved article: Clinical management of rape and intimate partner violence survivors - Relevance: 0.39
+2025-04-07 13:58:59,708 - mun_scraper - INFO - Finished crawling https://www.who.int. Processed 23 URLs.
+2025-04-07 13:58:59,708 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 13:58:59,708 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for World Health Organization - Regulation of pandemics and global regulations for lockdowns
+2025-04-07 13:58:59,708 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 13:58:59,708 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 13:58:59,708 - mun_scraper - INFO - Crawling source: https://www.doctorswithoutborders.org for World Health Organization - Regulation of pandemics and global regulations for lockdowns
+2025-04-07 13:59:15,207 - mun_scraper - INFO - Saved article: Ways to give donations | Doctors Without Borders - USA - Relevance: 0.31
+2025-04-07 13:59:15,209 - mun_scraper - INFO - Finished crawling https://www.doctorswithoutborders.org. Processed 6 URLs.
+2025-04-07 13:59:15,209 - mun_scraper - INFO - Crawling source: https://www.ifrc.org for World Health Organization - Regulation of pandemics and global regulations for lockdowns
+2025-04-07 13:59:17,153 - mun_scraper - INFO - Saved article: Homepage | IFRC - Relevance: 0.42
+2025-04-07 13:59:21,577 - mun_scraper - INFO - Saved article: News | IFRC - Relevance: 0.47
+2025-04-07 13:59:23,642 - mun_scraper - INFO - Saved article: ‘We observed a moment of silence—but we will not be silent’. | IFRC - Relevance: 0.33
+2025-04-07 13:59:27,768 - mun_scraper - INFO - Saved article: ‘From the Andes to the Amazon’, major climate impacts long after headlines fade | IFRC - Relevance: 0.35
+2025-04-07 13:59:29,813 - mun_scraper - INFO - Saved article: Protecting communities from epidemics in Kyrgyzstan’s rural north | IFRC - Relevance: 0.31
+2025-04-07 13:59:51,093 - mun_scraper - WARNING - Failed to fetch https://www.unocha.org/story/stay-and-deliver-five-years-risk-and-complexity-delivering-aid-highly-insecure-environments: HTTP 404
+2025-04-07 13:59:53,729 - mun_scraper - INFO - Saved article: Reports and briefing papers | Aid Worker Security Database - Relevance: 0.38
+2025-04-07 13:59:56,468 - mun_scraper - INFO - Saved article: Selected citations | Aid Worker Security Database - Relevance: 0.30
+2025-04-07 13:59:59,509 - mun_scraper - INFO - Saved article: International Humanitarian law | IFRC - Relevance: 0.40
+2025-04-07 14:00:12,035 - mun_scraper - INFO - Saved article: Protection | IFRC - Relevance: 0.47
+2025-04-07 14:00:18,504 - mun_scraper - INFO - Saved article: ‘Protect Humanity’ event commemorates humanitarians killed this year | IFRC - Relevance: 0.35
+2025-04-07 14:00:23,672 - mun_scraper - INFO - Saved article: About the IFRC | IFRC - Relevance: 0.44
+2025-04-07 14:00:26,054 - mun_scraper - INFO - Saved article: People and structures | IFRC - Relevance: 0.44
+2025-04-07 14:00:28,662 - mun_scraper - INFO - Saved article: IFRC Governance | IFRC - Relevance: 0.30
+2025-04-07 14:00:31,151 - mun_scraper - INFO - Saved article: About National Societies | IFRC - Relevance: 0.38
+2025-04-07 14:00:42,422 - mun_scraper - INFO - Saved article: Advocacy hub | IFRC - Relevance: 0.42
+2025-04-07 14:00:42,422 - mun_scraper - INFO - Finished crawling https://www.ifrc.org. Processed 35 URLs.
+2025-04-07 14:00:42,422 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 14:00:42,422 - mun_scraper - INFO - Crawling source: https://scholar.google.com for World Health Organization - Regulation of pandemics and global regulations for lockdowns
+2025-04-07 14:00:42,422 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 14:00:42,422 - mun_scraper - INFO - Crawling source: https://www.researchgate.net for World Health Organization - Regulation of pandemics and global regulations for lockdowns
+2025-04-07 14:00:42,422 - mun_scraper - INFO - Finished crawling https://www.researchgate.net. Processed 0 URLs.
+2025-04-07 14:00:42,422 - mun_scraper - INFO - Processing topic 2/3: Treating disease in areas of prolonged conflict
+2025-04-07 14:00:42,422 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 14:00:42,422 - mun_scraper - INFO - Crawling source: https://www.reuters.com for World Health Organization - Treating disease in areas of prolonged conflict
+2025-04-07 14:00:42,423 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 14:00:42,423 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for World Health Organization - Treating disease in areas of prolonged conflict
+2025-04-07 14:00:42,423 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 14:00:42,423 - mun_scraper - INFO - Crawling source: https://www.theguardian.com/international for World Health Organization - Treating disease in areas of prolonged conflict
+2025-04-07 14:00:42,423 - mun_scraper - INFO - Finished crawling https://www.theguardian.com/international. Processed 0 URLs.
+2025-04-07 14:00:42,423 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 14:00:42,423 - mun_scraper - INFO - Crawling source: https://www.who.int for World Health Organization - Treating disease in areas of prolonged conflict
+2025-04-07 14:00:42,423 - mun_scraper - INFO - Finished crawling https://www.who.int. Processed 0 URLs.
+2025-04-07 14:00:42,423 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 14:00:42,423 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for World Health Organization - Treating disease in areas of prolonged conflict
+2025-04-07 14:00:42,423 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 14:00:42,423 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 14:00:42,423 - mun_scraper - INFO - Crawling source: https://www.doctorswithoutborders.org for World Health Organization - Treating disease in areas of prolonged conflict
+2025-04-07 14:00:42,423 - mun_scraper - INFO - Finished crawling https://www.doctorswithoutborders.org. Processed 0 URLs.
+2025-04-07 14:00:42,423 - mun_scraper - INFO - Crawling source: https://www.icrc.org for World Health Organization - Treating disease in areas of prolonged conflict
+2025-04-07 14:00:45,069 - mun_scraper - INFO - Saved article: ICRC | International Committee of the Red Cross - Relevance: 0.33
+2025-04-07 14:00:50,870 - mun_scraper - INFO - Saved article: Privacy policy | International Committee of the Red Cross - Relevance: 0.39
+2025-04-07 14:00:54,297 - mun_scraper - INFO - Saved article: Privacy policy | International Committee of the Red Cross - Relevance: 0.39
+2025-04-07 14:00:56,981 - mun_scraper - INFO - Saved article: Myanmar: Earthquake response | ICRC - Relevance: 0.36
+2025-04-07 14:00:58,083 - mun_scraper - WARNING - Failed to fetch https://www.icrc.org/en/article/devastating-earthquake-myanmar-icrc-responds-help-people-ground  : HTTP 404
+2025-04-07 14:00:59,210 - mun_scraper - WARNING - Failed to fetch https://www.icrc.org/en/news-release/myanmar-icrc-calls-bring-respite-suffering-communities  : HTTP 404
+2025-04-07 14:01:01,800 - mun_scraper - INFO - Saved article: Myanmar: Response to devastating earthquake | ICRC - Relevance: 0.52
+2025-04-07 14:01:05,436 - mun_scraper - INFO - Saved article: Myanmar: Operational Facts and Figures – Jan - Dec 2024 | ICRC - Relevance: 0.32
+2025-04-07 14:01:07,980 - mun_scraper - INFO - Saved article: Economic security | ICRC - Relevance: 0.61
+2025-04-07 14:01:10,593 - mun_scraper - INFO - Saved article: Health | ICRC - Relevance: 0.53
+2025-04-07 14:01:13,356 - mun_scraper - INFO - Saved article: Physical rehabilitation | ICRC - Relevance: 0.34
+2025-04-07 14:01:16,098 - mun_scraper - INFO - Saved article: Reconnecting families | ICRC - Relevance: 0.48
+2025-04-07 14:01:23,424 - mun_scraper - INFO - Saved article: Philippines: Falling in love | ICRC - Relevance: 0.38
+2025-04-07 14:01:26,155 - mun_scraper - INFO - Saved article: Afghanistan: 2024 Operational facts and figures - Relevance: 0.43
+2025-04-07 14:01:29,054 - mun_scraper - INFO - Saved article: Gaza: The long road home | ICRC - Relevance: 0.44
+2025-04-07 14:01:31,390 - mun_scraper - INFO - Saved article: Israel and the occupied territories | ICRC - Relevance: 0.36
+2025-04-07 14:01:34,447 - mun_scraper - INFO - Saved article: URGENT: ISRAEL-GAZA EMERGENCY APPEAL | International Committee of the Red Cross - Relevance: 0.36
+2025-04-07 14:01:34,447 - mun_scraper - INFO - Finished crawling https://www.icrc.org. Processed 18 URLs.
+2025-04-07 14:01:34,447 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 14:01:34,447 - mun_scraper - INFO - Crawling source: https://www.jstor.org for World Health Organization - Treating disease in areas of prolonged conflict
+2025-04-07 14:01:34,447 - mun_scraper - INFO - Finished crawling https://www.jstor.org. Processed 0 URLs.
+2025-04-07 14:01:34,447 - mun_scraper - INFO - Crawling source: https://scholar.google.com for World Health Organization - Treating disease in areas of prolonged conflict
+2025-04-07 14:01:34,447 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 14:01:34,447 - mun_scraper - INFO - Processing topic 3/3: Addressing obesity and diet-related diseases
+2025-04-07 14:01:34,447 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 14:01:34,447 - mun_scraper - INFO - Crawling source: https://www.reuters.com for World Health Organization - Addressing obesity and diet-related diseases
+2025-04-07 14:01:34,447 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 14:01:34,447 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for World Health Organization - Addressing obesity and diet-related diseases
+2025-04-07 14:01:34,447 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 14:01:34,447 - mun_scraper - INFO - Crawling source: https://www.theguardian.com/international for World Health Organization - Addressing obesity and diet-related diseases
+2025-04-07 14:01:34,447 - mun_scraper - INFO - Finished crawling https://www.theguardian.com/international. Processed 0 URLs.
+2025-04-07 14:01:34,447 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 14:01:34,447 - mun_scraper - INFO - Crawling source: https://www.who.int for World Health Organization - Addressing obesity and diet-related diseases
+2025-04-07 14:01:34,447 - mun_scraper - INFO - Finished crawling https://www.who.int. Processed 0 URLs.
+2025-04-07 14:01:34,447 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 14:01:34,447 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for World Health Organization - Addressing obesity and diet-related diseases
+2025-04-07 14:01:34,447 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 14:01:34,447 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 14:01:34,447 - mun_scraper - INFO - Crawling source: https://www.worldobesity.org for World Health Organization - Addressing obesity and diet-related diseases
+2025-04-07 14:01:39,216 - mun_scraper - INFO - Saved article: Homepage | World Obesity Federation - Relevance: 0.47
+2025-04-07 14:01:43,455 - mun_scraper - INFO - Saved article: SCOPE | World Obesity Federation - Relevance: 0.38
+2025-04-07 14:01:47,307 - mun_scraper - INFO - Saved article: Training & Events | World Obesity Federation - Relevance: 0.36
+2025-04-07 14:01:51,456 - mun_scraper - INFO - Saved article: SCOPE | World Obesity Federation - Relevance: 0.38
+2025-04-07 14:01:55,219 - mun_scraper - INFO - Saved article: E-Learning | World Obesity Federation - Relevance: 0.48
+2025-04-07 14:01:59,027 - mun_scraper - INFO - Saved article: Core Learning Path | World Obesity Federation - Relevance: 0.38
+2025-04-07 14:17:02,891 - mun_scraper - INFO - Saved article: Free supplementary modules | World Obesity Federation - Relevance: 0.58
+2025-04-07 14:17:06,832 - mun_scraper - INFO - Saved article: Childhood Obesity: From Diagnosis to Treatment | World Obesity Federation - Relevance: 0.38
+2025-04-07 14:17:09,847 - mun_scraper - INFO - Saved article: World Obesity Federation Global Obesity Observatory - Relevance: 0.36
+2025-04-07 14:17:12,781 - mun_scraper - INFO - Saved article: Afghanistan | World Obesity Federation Global Obesity Observatory - Relevance: 0.60
+2025-04-07 14:17:15,624 - mun_scraper - INFO - Saved article: World Obesity Federation Global Obesity Observatory - Relevance: 0.36
+2025-04-07 14:17:19,252 - mun_scraper - INFO - Saved article: The ROOTS of Obesity | World Obesity Federation - Relevance: 0.58
+2025-04-07 14:17:23,617 - mun_scraper - INFO - Saved article: Afghanistan - STEPS 2018 - Relevance: 0.53
+2025-04-07 14:17:26,711 - mun_scraper - INFO - Saved article: World Obesity Federation Global Obesity Observatory - Relevance: 0.36
+2025-04-07 14:17:30,023 - mun_scraper - INFO - Saved article: World Obesity Federation Global Obesity Observatory - Relevance: 0.36
+2025-04-07 14:17:30,023 - mun_scraper - INFO - Finished crawling https://www.worldobesity.org. Processed 15 URLs.
+2025-04-07 14:17:30,023 - mun_scraper - INFO - Crawling source: https://www.obesity.org for World Health Organization - Addressing obesity and diet-related diseases
+2025-04-07 14:17:33,424 - mun_scraper - INFO - Saved article: The Obesity Society - Research. Education. Action. - Relevance: 0.78
+2025-04-07 14:17:36,355 - mun_scraper - WARNING - Failed to fetch https://onlinelibrary.wiley.com/journal/1930739x: HTTP 403
+2025-04-07 14:17:39,310 - mun_scraper - INFO - Saved article: On-Demand Education - The Obesity Society - Relevance: 0.58
+2025-04-07 14:17:40,123 - mun_scraper - WARNING - Error fetching https://www.abom.org/cme-certification-pathway-eligibility-and-requirements-2/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-04-07 14:17:55,931 - mun_scraper - INFO - Saved article: CME Pathway Details - American Board of Obesity Medicine - Relevance: 0.95
+2025-04-07 14:18:05,929 - mun_scraper - INFO - Saved article: Medfyle - ObesityWeek® - Relevance: 0.38
+2025-04-07 14:18:10,673 - mun_scraper - WARNING - Failed to fetch https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fthebestofobesityweek.org: HTTP 400
+2025-04-07 14:18:15,674 - mun_scraper - WARNING - Failed to fetch http://www.bestofobesityweek.com/files/slides/05_Kritchevsky_Geroscience-and-Obesity.pptx : HTTP 404
+2025-04-07 14:18:15,773 - mun_scraper - WARNING - Failed to fetch http://www.bestofobesityweek.com/files/slides/08_Aronne_TZP-in-Obesity-and-Pre-diabetes.pptx : HTTP 404
+2025-04-07 14:18:19,835 - mun_scraper - WARNING - Failed to fetch https://thebestofobesityweek.org/files/slides/05_Kritchevsky_Geroscience-and-Obesity.pptx : HTTP 404
+2025-04-07 14:18:20,614 - mun_scraper - WARNING - Failed to fetch https://thebestofobesityweek.org/files/slides/08_Aronne_TZP-in-Obesity-and-Pre-diabetes.pptx : HTTP 404
+2025-04-07 14:18:20,905 - mun_scraper - WARNING - Failed to fetch https://www.godaddy.com/: HTTP 403
+2025-04-07 14:18:23,036 - mun_scraper - INFO - Saved article: ObesityWeek - Innovative Science to Transformational Care - Relevance: 0.38
+2025-04-07 14:18:25,189 - mun_scraper - INFO - Finished crawling https://www.obesity.org. Processed 18 URLs.
+2025-04-07 14:18:25,189 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 14:18:25,189 - mun_scraper - INFO - Crawling source: https://scholar.google.com for World Health Organization - Addressing obesity and diet-related diseases
+2025-04-07 14:18:25,189 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 14:18:25,189 - mun_scraper - INFO - Crawling source: https://www.researchgate.net for World Health Organization - Addressing obesity and diet-related diseases
+2025-04-07 14:18:25,189 - mun_scraper - INFO - Finished crawling https://www.researchgate.net. Processed 0 URLs.
+2025-04-07 14:18:25,189 - mun_scraper - INFO - Processing committee: International Maritime Organization
+2025-04-07 14:18:25,189 - mun_scraper - INFO - Processing topic 1/3: Discussing the use of maritime autonomous surface ships (MASS)
+2025-04-07 14:18:25,189 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 14:18:25,189 - mun_scraper - INFO - Crawling source: https://www.reuters.com for International Maritime Organization - Discussing the use of maritime autonomous surface ships (MASS)
+2025-04-07 14:18:25,189 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 14:18:25,190 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for International Maritime Organization - Discussing the use of maritime autonomous surface ships (MASS)
+2025-04-07 14:18:25,190 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 14:18:25,190 - mun_scraper - INFO - Crawling source: https://www.theguardian.com/international for International Maritime Organization - Discussing the use of maritime autonomous surface ships (MASS)
+2025-04-07 14:18:25,190 - mun_scraper - INFO - Finished crawling https://www.theguardian.com/international. Processed 0 URLs.
+2025-04-07 14:18:25,190 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 14:18:25,190 - mun_scraper - INFO - Crawling source: https://www.imo.org for International Maritime Organization - Discussing the use of maritime autonomous surface ships (MASS)
+2025-04-07 14:18:28,272 - mun_scraper - INFO - Saved article: International Maritime Organization - Relevance: 0.54
+2025-04-07 14:18:31,205 - mun_scraper - INFO - Saved article: IMO takes action on seafarers’ rights, substandard shipping - Relevance: 0.51
+2025-04-07 14:18:33,619 - mun_scraper - INFO - Saved article: WhatsNewNews - Relevance: 0.38
+2025-04-07 14:18:34,059 - mun_scraper - WARNING - Failed to fetch http://www.ilo.org/ilc/ILCSessions/103/reports/WCMS_248905/lang--en/index.htm: HTTP 403
+2025-04-07 14:18:36,747 - mun_scraper - INFO - Saved article: IMO/ILO work on seafarer issues - Relevance: 0.45
+2025-04-07 14:18:39,391 - mun_scraper - INFO - Saved article: International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978 - Relevance: 0.46
+2025-04-07 14:18:42,155 - mun_scraper - INFO - Saved article: Maritime Safety Committee (MSC 107), 31 May-9 June 2023 - Relevance: 0.89
+2025-04-07 14:18:45,323 - mun_scraper - INFO - Saved article: ILO/IMO Joint Database on Abandonment of Seafarers - Relevance: 0.40
+2025-04-07 14:18:49,254 - mun_scraper - INFO - Saved article: About - Relevance: 0.48
+2025-04-07 14:18:51,240 - mun_scraper - WARNING - Failed to fetch https://www.ilo.org/sectoral-policies-department-sector: HTTP 404
+2025-04-07 14:18:51,364 - mun_scraper - WARNING - Failed to fetch https://www.ilo.org/resource/other/guidelines-how-deal-seafarer-abandonment-cases: HTTP 403
+2025-04-07 14:18:51,495 - mun_scraper - WARNING - Failed to fetch https://www.ilo.org/international-labour-standards/maritime-labour-convention-2006: HTTP 403
+2025-04-07 14:18:56,173 - mun_scraper - INFO - Saved article: Convention C188 - Work in Fishing Convention, 2007 (No. 188) - Relevance: 0.73
+2025-04-07 14:19:01,875 - mun_scraper - INFO - Saved article: Protect satellite navigation from interference, UN agencies urge - Relevance: 0.57
+2025-04-07 14:19:07,062 - mun_scraper - INFO - Saved article: ITU: Committed to connecting the world - Relevance: 0.34
+2025-04-07 14:19:11,135 - mun_scraper - INFO - Saved article: ITU: Committed to connecting the world - Relevance: 0.34
+2025-04-07 14:19:14,485 - mun_scraper - INFO - Saved article: ITU 160th anniversary - Relevance: 0.31
+2025-04-07 14:19:33,449 - mun_scraper - INFO - Saved article: African aviation leaders establish digital transformation and regional connectivity as key priorities for air transport development - Relevance: 0.34
+2025-04-07 14:19:35,898 - mun_scraper - INFO - Saved article: Protect satellite navigation from interference, UN agencies urge - Relevance: 0.43
+2025-04-07 14:19:35,898 - mun_scraper - INFO - Finished crawling https://www.imo.org. Processed 20 URLs.
+2025-04-07 14:19:35,898 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 14:19:35,898 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for International Maritime Organization - Discussing the use of maritime autonomous surface ships (MASS)
+2025-04-07 14:19:35,899 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 14:19:35,899 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 14:19:35,899 - mun_scraper - INFO - Crawling source: https://www.ics-shipping.org for International Maritime Organization - Discussing the use of maritime autonomous surface ships (MASS)
+2025-04-07 14:19:41,623 - mun_scraper - INFO - Saved article: International Chamber of Shipping – Shaping the future of shipping - Relevance: 0.46
+2025-04-07 14:19:46,022 - mun_scraper - INFO - Saved article: About ICS | International Chamber of Shipping - Relevance: 0.43
+2025-04-07 14:19:59,948 - mun_scraper - INFO - Saved article: Join the conversation | International Chamber of Shipping - Relevance: 0.39
+2025-04-07 14:20:05,003 - mun_scraper - INFO - Saved article: AUSTRALIA | International Chamber of Shipping - Relevance: 0.42
+2025-04-07 14:20:09,149 - mun_scraper - INFO - Saved article: BAHAMAS | International Chamber of Shipping - Relevance: 0.31
+2025-04-07 14:20:13,048 - mun_scraper - INFO - Saved article: BELGIUM | International Chamber of Shipping - Relevance: 0.48
+2025-04-07 14:20:24,258 - mun_scraper - INFO - Saved article: The Principal Regulations Governing Maritime Safety | International Chamber of Shipping - Relevance: 0.57
+2025-04-07 14:20:29,358 - mun_scraper - INFO - Saved article: Submissions | International Chamber of Shipping - Relevance: 0.39
+2025-04-07 14:20:34,113 - mun_scraper - INFO - Saved article: ICS committees | International Chamber of Shipping - Relevance: 0.48
+2025-04-07 14:20:38,429 - mun_scraper - INFO - Saved article: Industry partners | International Chamber of Shipping - Relevance: 0.48
+2025-04-07 14:20:42,454 - mun_scraper - INFO - Saved article: Intergovernmental organisations | International Chamber of Shipping - Relevance: 0.56
+2025-04-07 14:20:46,334 - mun_scraper - INFO - Saved article: Supporting shipping | International Chamber of Shipping - Relevance: 0.38
+2025-04-07 14:20:51,897 - mun_scraper - INFO - Saved article: COVID-19 | International Chamber of Shipping - Relevance: 0.54
+2025-04-07 14:20:55,364 - mun_scraper - INFO - Saved article: International Chamber of Shipping Publications - Relevance: 0.37
+2025-04-07 14:21:06,767 - mun_scraper - INFO - Saved article: World Maritime University | International Chamber of Shipping - Relevance: 0.38
+2025-04-07 14:21:06,767 - mun_scraper - INFO - Finished crawling https://www.ics-shipping.org. Processed 19 URLs.
+2025-04-07 14:21:06,767 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 14:21:06,767 - mun_scraper - INFO - Crawling source: https://scholar.google.com for International Maritime Organization - Discussing the use of maritime autonomous surface ships (MASS)
+2025-04-07 14:21:06,768 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 14:21:06,768 - mun_scraper - INFO - Crawling source: https://www.jstor.org for International Maritime Organization - Discussing the use of maritime autonomous surface ships (MASS)
+2025-04-07 14:21:06,768 - mun_scraper - INFO - Finished crawling https://www.jstor.org. Processed 0 URLs.
+2025-04-07 14:21:06,768 - mun_scraper - INFO - Processing topic 2/3: Enhancing global cooperation against piracy in piracy hotspots
+2025-04-07 14:21:06,768 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 14:21:06,768 - mun_scraper - INFO - Crawling source: https://www.reuters.com for International Maritime Organization - Enhancing global cooperation against piracy in piracy hotspots
+2025-04-07 14:21:06,768 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 14:21:06,768 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for International Maritime Organization - Enhancing global cooperation against piracy in piracy hotspots
+2025-04-07 14:21:06,768 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 14:21:06,768 - mun_scraper - INFO - Crawling source: https://www.aljazeera.com/news/ for International Maritime Organization - Enhancing global cooperation against piracy in piracy hotspots
+2025-04-07 14:21:06,768 - mun_scraper - INFO - Finished crawling https://www.aljazeera.com/news/. Processed 0 URLs.
+2025-04-07 14:21:06,768 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 14:21:06,768 - mun_scraper - INFO - Crawling source: https://www.imo.org for International Maritime Organization - Enhancing global cooperation against piracy in piracy hotspots
+2025-04-07 14:21:06,768 - mun_scraper - INFO - Finished crawling https://www.imo.org. Processed 0 URLs.
+2025-04-07 14:21:06,768 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 14:21:06,768 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for International Maritime Organization - Enhancing global cooperation against piracy in piracy hotspots
+2025-04-07 14:21:06,768 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 14:21:06,768 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 14:21:06,768 - mun_scraper - INFO - Crawling source: https://www.crisisgroup.org for International Maritime Organization - Enhancing global cooperation against piracy in piracy hotspots
+2025-04-07 14:21:06,768 - mun_scraper - INFO - Finished crawling https://www.crisisgroup.org. Processed 0 URLs.
+2025-04-07 14:21:06,768 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 14:21:06,769 - mun_scraper - INFO - Crawling source: https://www.jstor.org for International Maritime Organization - Enhancing global cooperation against piracy in piracy hotspots
+2025-04-07 14:21:06,769 - mun_scraper - INFO - Finished crawling https://www.jstor.org. Processed 0 URLs.
+2025-04-07 14:21:06,769 - mun_scraper - INFO - Crawling source: https://scholar.google.com for International Maritime Organization - Enhancing global cooperation against piracy in piracy hotspots
+2025-04-07 14:21:06,769 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 14:21:06,769 - mun_scraper - INFO - Processing topic 3/3: Addressing illegal, unreported, and unregulated fishing
+2025-04-07 14:21:06,769 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 14:21:06,769 - mun_scraper - INFO - Crawling source: https://www.reuters.com for International Maritime Organization - Addressing illegal, unreported, and unregulated fishing
+2025-04-07 14:21:06,769 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 14:21:06,769 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for International Maritime Organization - Addressing illegal, unreported, and unregulated fishing
+2025-04-07 14:21:06,769 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 14:21:06,769 - mun_scraper - INFO - Crawling source: https://www.theguardian.com/international for International Maritime Organization - Addressing illegal, unreported, and unregulated fishing
+2025-04-07 14:21:06,769 - mun_scraper - INFO - Finished crawling https://www.theguardian.com/international. Processed 0 URLs.
+2025-04-07 14:21:06,769 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 14:21:06,769 - mun_scraper - INFO - Crawling source: https://www.imo.org for International Maritime Organization - Addressing illegal, unreported, and unregulated fishing
+2025-04-07 14:21:06,769 - mun_scraper - INFO - Finished crawling https://www.imo.org. Processed 0 URLs.
+2025-04-07 14:21:06,769 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 14:21:06,769 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for International Maritime Organization - Addressing illegal, unreported, and unregulated fishing
+2025-04-07 14:21:06,769 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 14:21:06,769 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 14:21:06,769 - mun_scraper - INFO - Crawling source: https://www.seafoodwatch.org for International Maritime Organization - Addressing illegal, unreported, and unregulated fishing
+2025-04-07 14:21:08,991 - mun_scraper - INFO - Finished crawling https://www.seafoodwatch.org. Processed 1 URLs.
+2025-04-07 14:21:08,991 - mun_scraper - INFO - Crawling source: https://www.edf.org for International Maritime Organization - Addressing illegal, unreported, and unregulated fishing
+2025-04-07 14:21:11,250 - mun_scraper - INFO - Saved article: Environmental Defense Fund - Building a vital Earth for everyone - Relevance: 0.30
+2025-04-07 14:21:19,521 - mun_scraper - INFO - Finished crawling https://www.edf.org. Processed 4 URLs.
+2025-04-07 14:21:19,522 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 14:21:19,522 - mun_scraper - INFO - Crawling source: https://scholar.google.com for International Maritime Organization - Addressing illegal, unreported, and unregulated fishing
+2025-04-07 14:21:19,522 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 14:21:19,522 - mun_scraper - INFO - Crawling source: https://www.researchgate.net for International Maritime Organization - Addressing illegal, unreported, and unregulated fishing
+2025-04-07 14:21:19,522 - mun_scraper - INFO - Finished crawling https://www.researchgate.net. Processed 0 URLs.
+2025-04-07 14:21:19,522 - mun_scraper - INFO - Processing committee: United Nations Environment Programme
+2025-04-07 14:21:19,522 - mun_scraper - INFO - Processing topic 1/3: Limiting chemical pollutants and pesticides in soil
+2025-04-07 14:21:19,522 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 14:21:19,522 - mun_scraper - INFO - Crawling source: https://www.reuters.com for United Nations Environment Programme - Limiting chemical pollutants and pesticides in soil
+2025-04-07 14:21:19,522 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 14:21:19,522 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for United Nations Environment Programme - Limiting chemical pollutants and pesticides in soil
+2025-04-07 14:21:19,522 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 14:21:19,522 - mun_scraper - INFO - Crawling source: https://www.theguardian.com/international for United Nations Environment Programme - Limiting chemical pollutants and pesticides in soil
+2025-04-07 14:21:19,522 - mun_scraper - INFO - Finished crawling https://www.theguardian.com/international. Processed 0 URLs.
+2025-04-07 14:21:19,522 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 14:21:19,522 - mun_scraper - INFO - Crawling source: https://www.unep.org for United Nations Environment Programme - Limiting chemical pollutants and pesticides in soil
+2025-04-07 14:21:22,391 - mun_scraper - INFO - Saved article: UNEP - UN Environment Programme - Relevance: 0.45
+2025-04-07 14:21:24,940 - mun_scraper - INFO - Saved article: News, Stories & Speeches | UNEP - UN Environment Programme - Relevance: 0.43
+2025-04-07 14:21:30,414 - mun_scraper - INFO - Saved article: Protecting the planet is everyone's responsibility | UNEP - UN Environment Programme - Relevance: 0.43
+2025-04-07 14:21:45,561 - mun_scraper - INFO - Saved article: UNEP - UN Environment Programme - Relevance: 0.45
+2025-04-07 14:21:48,668 - mun_scraper - INFO - Finished crawling https://www.unep.org. Processed 10 URLs.
+2025-04-07 14:21:48,668 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 14:21:48,668 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for United Nations Environment Programme - Limiting chemical pollutants and pesticides in soil
+2025-04-07 14:21:48,668 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 14:21:48,668 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 14:21:48,668 - mun_scraper - INFO - Crawling source: https://www.greenpeace.org for United Nations Environment Programme - Limiting chemical pollutants and pesticides in soil
+2025-04-07 14:21:51,238 - mun_scraper - INFO - Finished crawling https://www.greenpeace.org. Processed 1 URLs.
+2025-04-07 14:21:51,238 - mun_scraper - INFO - Crawling source: https://www.edf.org for United Nations Environment Programme - Limiting chemical pollutants and pesticides in soil
+2025-04-07 14:21:51,238 - mun_scraper - INFO - Finished crawling https://www.edf.org. Processed 0 URLs.
+2025-04-07 14:21:51,238 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 14:21:51,239 - mun_scraper - INFO - Crawling source: https://www.jstor.org for United Nations Environment Programme - Limiting chemical pollutants and pesticides in soil
+2025-04-07 14:21:51,239 - mun_scraper - INFO - Finished crawling https://www.jstor.org. Processed 0 URLs.
+2025-04-07 14:21:51,239 - mun_scraper - INFO - Crawling source: https://scholar.google.com for United Nations Environment Programme - Limiting chemical pollutants and pesticides in soil
+2025-04-07 14:21:51,239 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 14:21:51,239 - mun_scraper - INFO - Processing topic 2/3: Regulating unethical textile manufacturing and the fast fashion industry
+2025-04-07 14:21:51,239 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 14:21:51,239 - mun_scraper - INFO - Crawling source: https://www.reuters.com for United Nations Environment Programme - Regulating unethical textile manufacturing and the fast fashion industry
+2025-04-07 14:21:51,239 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 14:21:51,239 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for United Nations Environment Programme - Regulating unethical textile manufacturing and the fast fashion industry
+2025-04-07 14:21:51,239 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 14:21:51,239 - mun_scraper - INFO - Crawling source: https://www.theguardian.com/international for United Nations Environment Programme - Regulating unethical textile manufacturing and the fast fashion industry
+2025-04-07 14:21:51,239 - mun_scraper - INFO - Finished crawling https://www.theguardian.com/international. Processed 0 URLs.
+2025-04-07 14:21:51,239 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 14:21:51,239 - mun_scraper - INFO - Crawling source: https://www.unep.org for United Nations Environment Programme - Regulating unethical textile manufacturing and the fast fashion industry
+2025-04-07 14:21:51,239 - mun_scraper - INFO - Finished crawling https://www.unep.org. Processed 0 URLs.
+2025-04-07 14:21:51,239 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 14:21:51,239 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for United Nations Environment Programme - Regulating unethical textile manufacturing and the fast fashion industry
+2025-04-07 14:21:51,239 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 14:21:51,239 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 14:21:51,239 - mun_scraper - INFO - Crawling source: https://www.fashionrevolution.org for United Nations Environment Programme - Regulating unethical textile manufacturing and the fast fashion industry
+2025-04-07 14:21:55,567 - mun_scraper - INFO - Saved article: Fashion Revolution - Relevance: 0.39
+2025-04-07 14:21:58,836 - mun_scraper - INFO - Saved article: Fashion Revolution Week 2025 : Fashion Revolution - Relevance: 0.36
+2025-04-07 14:22:04,011 - mun_scraper - INFO - Saved article: DONATE : Fashion Revolution - Relevance: 0.44
+2025-04-07 14:22:20,292 - mun_scraper - INFO - Saved article: What Fuels Fashion? : Fashion Revolution - Relevance: 0.63
+2025-04-07 14:22:24,227 - mun_scraper - WARNING - Error fetching https://action.fashionrevolution.org/what-fuels-fashion: HTTPSConnectionPool(host='action.fashionrevolution.org', port=443): Max retries exceeded with url: /what-fuels-fashion (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'action.fashionrevolution.org'. (_ssl.c:1000)")))
+2025-04-07 14:22:31,098 - mun_scraper - INFO - Saved article: Fashion - Worldwide | Statista Market Forecast - Relevance: 0.40
+2025-04-07 14:22:36,517 - mun_scraper - INFO - Saved article: Market Insights | Statista - Relevance: 0.36
+2025-04-07 14:22:42,800 - mun_scraper - INFO - Saved article: eCommerce | Statista - Relevance: 0.39
+2025-04-07 14:22:49,406 - mun_scraper - INFO - Saved article: Fashion - India | Statista Market Forecast - Relevance: 0.40
+2025-04-07 14:22:55,691 - mun_scraper - INFO - Saved article: Fashion - South Korea | Statista Market Forecast - Relevance: 0.40
+2025-04-07 14:23:02,202 - mun_scraper - INFO - Saved article: Fashion - China | Statista Market Forecast - Relevance: 0.40
+2025-04-07 14:23:06,192 - mun_scraper - INFO - Saved article: Tripling renewable power and doubling energy efficiency by 2030: Crucial steps towards 1.5°C - Relevance: 0.62
+2025-04-07 14:23:25,981 - mun_scraper - WARNING - Failed to fetch https://fr-fanzines.myshopify.com/products/sewing-the-seeds-printed-copy: HTTP 404
+2025-04-07 14:23:41,031 - mun_scraper - INFO - Saved article: Small But Perfect : Fashion Revolution - Relevance: 0.55
+2025-04-07 14:24:01,933 - mun_scraper - INFO - Saved article: TAKE ACTION : Fashion Revolution - Relevance: 0.31
+2025-04-07 14:24:06,147 - mun_scraper - INFO - Saved article: Fashion Revolution Week 2025 : Fashion Revolution - Relevance: 0.36
+2025-04-07 14:24:08,789 - mun_scraper - INFO - Finished crawling https://www.fashionrevolution.org. Processed 41 URLs.
+2025-04-07 14:24:08,790 - mun_scraper - INFO - Crawling source: https://cleanclothes.org for United Nations Environment Programme - Regulating unethical textile manufacturing and the fast fashion industry
+2025-04-07 14:24:15,403 - mun_scraper - WARNING - Failed to fetch https://www.facebook.com/cleanclothescampaign: HTTP 400
+2025-04-07 14:24:22,908 - mun_scraper - INFO - Saved article: Clean Clothes Campaign | LinkedIn - Relevance: 0.57
+2025-04-07 14:24:32,909 - mun_scraper - INFO - Finished crawling https://cleanclothes.org. Processed 10 URLs.
+2025-04-07 14:24:32,909 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 14:24:32,909 - mun_scraper - INFO - Crawling source: https://scholar.google.com for United Nations Environment Programme - Regulating unethical textile manufacturing and the fast fashion industry
+2025-04-07 14:24:32,909 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 14:24:32,909 - mun_scraper - INFO - Crawling source: https://www.researchgate.net for United Nations Environment Programme - Regulating unethical textile manufacturing and the fast fashion industry
+2025-04-07 14:24:32,910 - mun_scraper - INFO - Finished crawling https://www.researchgate.net. Processed 0 URLs.
+2025-04-07 14:24:32,910 - mun_scraper - INFO - Processing topic 3/3: Addressing overpopulation and its effects on the environment
+2025-04-07 14:24:32,910 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 14:24:32,910 - mun_scraper - INFO - Crawling source: https://www.reuters.com for United Nations Environment Programme - Addressing overpopulation and its effects on the environment
+2025-04-07 14:24:32,910 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 14:24:32,910 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for United Nations Environment Programme - Addressing overpopulation and its effects on the environment
+2025-04-07 14:24:32,910 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 14:24:32,910 - mun_scraper - INFO - Crawling source: https://www.theguardian.com/international for United Nations Environment Programme - Addressing overpopulation and its effects on the environment
+2025-04-07 14:24:32,910 - mun_scraper - INFO - Finished crawling https://www.theguardian.com/international. Processed 0 URLs.
+2025-04-07 14:24:32,910 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 14:24:32,910 - mun_scraper - INFO - Crawling source: https://www.unep.org for United Nations Environment Programme - Addressing overpopulation and its effects on the environment
+2025-04-07 14:24:32,910 - mun_scraper - INFO - Finished crawling https://www.unep.org. Processed 0 URLs.
+2025-04-07 14:24:32,910 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 14:24:32,910 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for United Nations Environment Programme - Addressing overpopulation and its effects on the environment
+2025-04-07 14:24:32,910 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 14:24:32,910 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 14:24:32,910 - mun_scraper - INFO - Crawling source: https://www.populationaction.org for United Nations Environment Programme - Addressing overpopulation and its effects on the environment
+2025-04-07 14:24:33,026 - mun_scraper - WARNING - Error fetching https://www.populationaction.org: HTTPSConnectionPool(host='www.populationaction.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x16a554080>: Failed to resolve 'www.populationaction.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-04-07 14:24:33,027 - mun_scraper - INFO - Finished crawling https://www.populationaction.org. Processed 0 URLs.
+2025-04-07 14:24:33,027 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 14:24:33,027 - mun_scraper - INFO - Crawling source: https://www.jstor.org for United Nations Environment Programme - Addressing overpopulation and its effects on the environment
+2025-04-07 14:24:33,027 - mun_scraper - INFO - Finished crawling https://www.jstor.org. Processed 0 URLs.
+2025-04-07 14:24:33,027 - mun_scraper - INFO - Crawling source: https://scholar.google.com for United Nations Environment Programme - Addressing overpopulation and its effects on the environment
+2025-04-07 14:24:33,027 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 14:24:33,027 - mun_scraper - INFO - Processing committee: Economic and Social Council
+2025-04-07 14:24:33,027 - mun_scraper - INFO - Processing topic 1/3: Improving higher education in developing countries
+2025-04-07 14:24:33,027 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 14:24:33,027 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for Economic and Social Council - Improving higher education in developing countries
+2025-04-07 14:24:33,027 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 14:24:33,027 - mun_scraper - INFO - Crawling source: https://www.reuters.com for Economic and Social Council - Improving higher education in developing countries
+2025-04-07 14:24:33,027 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 14:24:33,027 - mun_scraper - INFO - Crawling source: https://www.theguardian.com/international for Economic and Social Council - Improving higher education in developing countries
+2025-04-07 14:24:33,027 - mun_scraper - INFO - Finished crawling https://www.theguardian.com/international. Processed 0 URLs.
+2025-04-07 14:24:33,027 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 14:24:33,027 - mun_scraper - INFO - Crawling source: https://www.unesco.org for Economic and Social Council - Improving higher education in developing countries
+2025-04-07 14:24:36,404 - mun_scraper - INFO - Saved article: UNESCO : Building Peace through Education, Science and Culture, communication and information - Relevance: 0.35
+2025-04-07 14:24:44,176 - mun_scraper - INFO - Saved article: MONDIACULT 2025 | UNESCO - Relevance: 0.35
+2025-04-07 14:24:48,115 - mun_scraper - INFO - Saved article: Revive the Spirit of Mosul | UNESCO - Relevance: 0.30
+2025-04-07 14:24:51,470 - mun_scraper - INFO - Saved article: World Heritage | UNESCO - Relevance: 0.45
+2025-04-07 14:24:54,691 - mun_scraper - INFO - Saved article: Fishing in the desert: Unlocking Lake Turkana’s potential | UNESCO - Relevance: 0.43
+2025-04-07 14:25:08,046 - mun_scraper - INFO - Finished crawling https://www.unesco.org. Processed 10 URLs.
+2025-04-07 14:25:08,047 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 14:25:08,047 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for Economic and Social Council - Improving higher education in developing countries
+2025-04-07 14:25:08,047 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 14:25:08,047 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 14:25:08,047 - mun_scraper - INFO - Crawling source: https://www.ei-ie.org for Economic and Social Council - Improving higher education in developing countries
+2025-04-07 14:25:10,998 - mun_scraper - INFO - Saved article: Education International - Relevance: 0.47
+2025-04-07 14:25:16,221 - mun_scraper - INFO - Saved article: Privacy Policy – Privacy & Terms – Google - Relevance: 0.50
+2025-04-07 14:25:22,624 - mun_scraper - INFO - Saved article: Google Terms of Service – Privacy & Terms – Google - Relevance: 0.40
+2025-04-07 14:25:37,845 - mun_scraper - INFO - Saved article: Achieving Sustainable Development Goal 4 - Relevance: 0.62
+2025-04-07 14:25:40,762 - mun_scraper - INFO - Saved article: THE 17 GOALS | Sustainable Development - Relevance: 0.53
+2025-04-07 14:25:45,477 - mun_scraper - INFO - Saved article: Goal 4 | Department of Economic and Social Affairs - Relevance: 0.78
+2025-04-07 14:25:48,158 - mun_scraper - INFO - Saved article: Statement of the Executive Board of Education International on the Global Disability Summit - Relevance: 0.43
+2025-04-07 14:25:51,224 - mun_scraper - INFO - Saved article: Tackling the teacher shortage crisis in the Commonwealth - Relevance: 0.70
+2025-04-07 14:25:54,239 - mun_scraper - INFO - Saved article: Jamaica launches “Go Public! Fund Education” campaign amid critical teacher shortage - Relevance: 0.45
+2025-04-07 14:25:57,707 - mun_scraper - INFO - Saved article: Fighting the commercialisation of education - Relevance: 0.53
+2025-04-07 14:26:00,360 - mun_scraper - INFO - Saved article: Resolution of the Executive Board of Education International on the attacks on public education, democracy, and union values in the United States - Relevance: 0.35
+2025-04-07 14:26:03,140 - mun_scraper - INFO - Saved article: Communications are key as African education unionists campaign to Go Public and Fund Education - Relevance: 0.52
+2025-04-07 14:26:06,250 - mun_scraper - INFO - Saved article: Serbia: Union organizing results in more funding, lower tuition fees, and fairer salaries in higher education - Relevance: 0.62
+2025-04-07 14:26:08,996 - mun_scraper - INFO - Saved article: Asia Pacific: Renewed sense of unity and determination to defend public education - Relevance: 0.47
+2025-04-07 14:26:12,237 - mun_scraper - INFO - Saved article: United States: Massive day of action to protect children’s right to quality education! - Relevance: 0.47
+2025-04-07 14:26:12,238 - mun_scraper - INFO - Finished crawling https://www.ei-ie.org. Processed 22 URLs.
+2025-04-07 14:26:12,238 - mun_scraper - INFO - Crawling source: https://www.unicef.org for Economic and Social Council - Improving higher education in developing countries
+2025-04-07 14:26:12,481 - mun_scraper - WARNING - Failed to fetch https://www.unicef.org: HTTP 403
+2025-04-07 14:26:12,482 - mun_scraper - INFO - Finished crawling https://www.unicef.org. Processed 0 URLs.
+2025-04-07 14:26:12,482 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 14:26:12,482 - mun_scraper - INFO - Crawling source: https://scholar.google.com for Economic and Social Council - Improving higher education in developing countries
+2025-04-07 14:26:12,482 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 14:26:12,482 - mun_scraper - INFO - Crawling source: https://www.jstor.org for Economic and Social Council - Improving higher education in developing countries
+2025-04-07 14:26:12,482 - mun_scraper - INFO - Finished crawling https://www.jstor.org. Processed 0 URLs.
+2025-04-07 14:26:12,482 - mun_scraper - INFO - Processing topic 2/3: Promoting rural development in Africa
+2025-04-07 14:26:12,482 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 14:26:12,482 - mun_scraper - INFO - Crawling source: https://www.reuters.com for Economic and Social Council - Promoting rural development in Africa
+2025-04-07 14:26:12,482 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 14:26:12,483 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for Economic and Social Council - Promoting rural development in Africa
+2025-04-07 14:26:12,483 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 14:26:12,483 - mun_scraper - INFO - Crawling source: https://www.theguardian.com/international for Economic and Social Council - Promoting rural development in Africa
+2025-04-07 14:26:12,483 - mun_scraper - INFO - Finished crawling https://www.theguardian.com/international. Processed 0 URLs.
+2025-04-07 14:26:12,483 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 14:26:12,483 - mun_scraper - INFO - Crawling source: https://www.uneca.org for Economic and Social Council - Promoting rural development in Africa
+2025-04-07 14:26:16,490 - mun_scraper - INFO - Saved article: United Nations Economic Commission for Africa | Ideas for a prosperous Africa - Relevance: 0.75
+2025-04-07 14:26:19,689 - mun_scraper - INFO - Saved article: Welcome remarks by Mr. Antonio Pedro - ‘Pre-event on private sector development Forward Faster Now Africa – SDGs Activation Day’ | United Nations Economic Commission for Africa - Relevance: 0.55
+2025-04-07 14:26:23,368 - mun_scraper - INFO - Saved article: United Nations Economic Commission for Africa | Ideas for a prosperous Africa - Relevance: 0.75
+2025-04-07 14:26:26,672 - mun_scraper - INFO - Saved article: Opening remarks by Mr. Antonio Pedro at the African Leadership Forum | United Nations Economic Commission for Africa - Relevance: 0.53
+2025-04-07 14:26:30,133 - mun_scraper - INFO - Saved article: Keynote speech by Mr. Antonio Pedro at the African Union Pan-African Youth Leadership Summit | United Nations Economic Commission for Africa - Relevance: 0.65
+2025-04-07 14:26:33,495 - mun_scraper - INFO - Saved article: Stories | United Nations Economic Commission for Africa - Relevance: 0.50
+2025-04-07 14:26:47,328 - mun_scraper - INFO - Saved article: COVID-19 Situation Report: 05 May 2022 - Relevance: 0.50
+2025-04-07 14:26:51,720 - mun_scraper - INFO - Saved article: Search - Relevance: 0.60
+2025-04-07 14:26:56,173 - mun_scraper - INFO - Saved article: ECA IR Home - Relevance: 0.73
+2025-04-07 14:27:01,735 - mun_scraper - INFO - Saved article: Work programmes - Relevance: 0.65
+2025-04-07 14:27:09,210 - mun_scraper - INFO - Saved article: Social Development - Relevance: 0.65
+2025-04-07 14:27:14,451 - mun_scraper - INFO - Saved article: Social Development - Relevance: 0.55
+2025-04-07 14:27:14,451 - mun_scraper - INFO - Finished crawling https://www.uneca.org. Processed 16 URLs.
+2025-04-07 14:27:14,451 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 14:27:14,451 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for Economic and Social Council - Promoting rural development in Africa
+2025-04-07 14:27:14,451 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 14:27:14,451 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 14:27:14,451 - mun_scraper - INFO - Crawling source: https://www.oxfam.org/en for Economic and Social Council - Promoting rural development in Africa
+2025-04-07 14:27:14,451 - mun_scraper - INFO - Finished crawling https://www.oxfam.org/en. Processed 0 URLs.
+2025-04-07 14:27:14,451 - mun_scraper - INFO - Crawling source: https://www.ifad.org for Economic and Social Council - Promoting rural development in Africa
+2025-04-07 14:27:19,007 - mun_scraper - INFO - Saved article: Home - Relevance: 0.50
+2025-04-07 14:27:22,915 - mun_scraper - INFO - Saved article: Our Vision - Relevance: 0.53
+2025-04-07 14:27:25,188 - mun_scraper - INFO - Saved article: A New Profile of the Global Poor - ScienceDirect - Relevance: 0.35
+2025-04-07 14:27:25,579 - mun_scraper - WARNING - Failed to fetch https://www.sciencedirect.com/journal/world-development: HTTP 400
+2025-04-07 14:27:25,884 - mun_scraper - WARNING - Failed to fetch https://www.sciencedirect.com/journal/world-development/vol/101/suppl/C: HTTP 400
+2025-04-07 14:27:29,535 - mun_scraper - WARNING - Failed to fetch https://www.ifad.org/en/web/knowledge/-/ifad-strategic-framework-2016-20251: HTTP 403
+2025-04-07 14:27:32,537 - mun_scraper - INFO - Saved article: Transforming our world: the 2030 Agenda for Sustainable Development | Department of Economic and Social Affairs - Relevance: 0.90
+2025-04-07 14:27:50,699 - mun_scraper - INFO - Saved article: Who we are - Relevance: 0.40
+2025-04-07 14:27:54,418 - mun_scraper - INFO - Saved article: Where we work - Relevance: 0.47
+2025-04-07 14:27:58,524 - mun_scraper - INFO - Saved article: What we do - Relevance: 0.43
+2025-04-07 14:28:01,881 - mun_scraper - INFO - Saved article: Action areas - Relevance: 0.53
+2025-04-07 14:28:05,485 - mun_scraper - INFO - Saved article: Knowledge & Data - Relevance: 0.50
+2025-04-07 14:28:08,624 - mun_scraper - INFO - Saved article: Soil is getting saltier – but African farmers are standing strong - Relevance: 0.55
+2025-04-07 14:28:12,682 - mun_scraper - INFO - Saved article: Home - Relevance: 0.50
+2025-04-07 14:28:17,530 - mun_scraper - INFO - Saved article: 5 investments that will help nourish the world - Relevance: 0.53
+2025-04-07 14:28:21,388 - mun_scraper - INFO - Saved article: Rural Voices - Relevance: 0.50
+2025-04-07 14:28:25,712 - mun_scraper - INFO - Saved article: Forest bounty feeds the world - Relevance: 0.50
+2025-04-07 14:28:29,720 - mun_scraper - INFO - Saved article: Investment from Malians abroad supports farmers back home - Relevance: 0.62
+2025-04-07 14:28:29,721 - mun_scraper - INFO - Finished crawling https://www.ifad.org. Processed 21 URLs.
+2025-04-07 14:28:29,721 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 14:28:29,721 - mun_scraper - INFO - Crawling source: https://scholar.google.com for Economic and Social Council - Promoting rural development in Africa
+2025-04-07 14:28:29,721 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 14:28:29,721 - mun_scraper - INFO - Crawling source: https://www.researchgate.net for Economic and Social Council - Promoting rural development in Africa
+2025-04-07 14:28:29,721 - mun_scraper - INFO - Finished crawling https://www.researchgate.net. Processed 0 URLs.
+2025-04-07 14:28:29,721 - mun_scraper - INFO - Processing topic 3/3: Addressing social inclusion of the elderly
+2025-04-07 14:28:29,721 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 14:28:29,721 - mun_scraper - INFO - Crawling source: https://www.reuters.com for Economic and Social Council - Addressing social inclusion of the elderly
+2025-04-07 14:28:29,721 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 14:28:29,721 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for Economic and Social Council - Addressing social inclusion of the elderly
+2025-04-07 14:28:29,721 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 14:28:29,721 - mun_scraper - INFO - Crawling source: https://www.theguardian.com/international for Economic and Social Council - Addressing social inclusion of the elderly
+2025-04-07 14:28:29,721 - mun_scraper - INFO - Finished crawling https://www.theguardian.com/international. Processed 0 URLs.
+2025-04-07 14:28:29,721 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 14:28:29,721 - mun_scraper - INFO - Crawling source: https://www.unfpa.org for Economic and Social Council - Addressing social inclusion of the elderly
+2025-04-07 14:28:33,880 - mun_scraper - INFO - Saved article: Commission on Population and Development, fifty-eighth session - Relevance: 0.57
+2025-04-07 14:28:37,627 - mun_scraper - INFO - Saved article: Trends in Maternal Mortality 2000-2023: Estimates by WHO, UNICEF, UNFPA, World Bank Group and UNDESA/Population Division - Relevance: 0.34
+2025-04-07 14:28:50,780 - mun_scraper - INFO - Saved article: World Health Day 2024 - Relevance: 0.30
+2025-04-07 14:28:55,325 - mun_scraper - INFO - Saved article: World Health Day 2022 - Relevance: 0.34
+2025-04-07 14:28:57,991 - mun_scraper - INFO - Saved article: World Health Day 2021 - Relevance: 0.47
+2025-04-07 14:29:01,278 - mun_scraper - INFO - Saved article: Home | Economic and Social Council - Relevance: 0.49
+2025-04-07 14:29:07,522 - mun_scraper - INFO - Saved article: المجلس الاقتصادي والاجتماعي - Relevance: 0.41
+2025-04-07 14:29:10,584 - mun_scraper - INFO - Saved article: 联合国经济及社会理事会 - Relevance: 0.41
+2025-04-07 14:29:13,654 - mun_scraper - INFO - Saved article: Conseil économique et social - Relevance: 0.46
+2025-04-07 14:29:15,761 - mun_scraper - INFO - Saved article: International Conference on Population and Development - Relevance: 0.45
+2025-04-07 14:29:19,468 - mun_scraper - INFO - Finished crawling https://www.unfpa.org. Processed 19 URLs.
+2025-04-07 14:29:19,468 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 14:29:19,468 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for Economic and Social Council - Addressing social inclusion of the elderly
+2025-04-07 14:29:19,468 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 14:29:19,468 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 14:29:19,468 - mun_scraper - INFO - Crawling source: https://www.helpage.org for Economic and Social Council - Addressing social inclusion of the elderly
+2025-04-07 14:29:22,456 - mun_scraper - INFO - Saved article: HelpAge International - Promoting the rights of older people - Relevance: 0.32
+2025-04-07 14:29:24,833 - mun_scraper - INFO - Saved article: Middle East crisis - HelpAge International - Relevance: 0.41
+2025-04-07 14:29:26,906 - mun_scraper - INFO - Saved article: What we do - HelpAge International - Relevance: 0.40
+2025-04-07 14:29:35,402 - mun_scraper - INFO - Saved article: Respond to humanitarian crises - HelpAge International - Relevance: 0.42
+2025-04-07 14:29:35,544 - mun_scraper - WARNING - Failed to fetch https://www.facebook.com/sharer/sharer.php?u=https://www.helpage.org/what-we-do/humanitarian-action/: HTTP 400
+2025-04-07 14:29:42,452 - mun_scraper - WARNING - Failed to fetch https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.helpage.org%2Fwhat-we-do%2Fhumanitarian-action%2Fgaza-crisis%2F: HTTP 400
+2025-04-07 14:29:46,880 - mun_scraper - INFO - Saved article: Global aid’s gender equality failures - HelpAge International - Relevance: 0.42
+2025-04-07 14:29:49,116 - mun_scraper - WARNING - Failed to fetch https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.helpage.org%2Finvesting-in-equality%2F: HTTP 400
+2025-04-07 14:30:00,229 - mun_scraper - INFO - Saved article: Our commitment to localisation - HelpAge International - Relevance: 0.34
+2025-04-07 14:30:03,112 - mun_scraper - WARNING - Failed to fetch https://www.facebook.com/sharer/sharer.php?u=https://www.helpage.org/about-us/: HTTP 400
+2025-04-07 14:30:09,849 - mun_scraper - INFO - Saved article: Values, vision and strategy - HelpAge International - Relevance: 0.32
+2025-04-07 14:30:10,006 - mun_scraper - WARNING - Failed to fetch https://www.facebook.com/sharer/sharer.php?u=https://www.helpage.org/about-us/values-vision-and-strategy/: HTTP 400
+2025-04-07 14:30:14,914 - mun_scraper - WARNING - Failed to fetch https://www.facebook.com/sharer/sharer.php?u=https://www.helpage.org/about-us/values-vision-and-strategy/localisation/: HTTP 400
+2025-04-07 14:30:19,574 - mun_scraper - INFO - Saved article: Global network - HelpAge International - Relevance: 0.58
+2025-04-07 14:30:21,608 - mun_scraper - INFO - Saved article: Global network - HelpAge International - Relevance: 0.58
+2025-04-07 14:30:27,730 - mun_scraper - INFO - Finished crawling https://www.helpage.org. Processed 30 URLs.
+2025-04-07 14:30:27,730 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 14:30:27,730 - mun_scraper - INFO - Crawling source: https://scholar.google.com for Economic and Social Council - Addressing social inclusion of the elderly
+2025-04-07 14:30:27,731 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 14:30:27,731 - mun_scraper - INFO - Crawling source: https://www.jstor.org for Economic and Social Council - Addressing social inclusion of the elderly
+2025-04-07 14:30:27,731 - mun_scraper - INFO - Finished crawling https://www.jstor.org. Processed 0 URLs.
+2025-04-07 14:30:27,731 - mun_scraper - INFO - Processing committee: UN Educational, Scientific and Cultural Organization
+2025-04-07 14:30:27,731 - mun_scraper - INFO - Processing topic 1/3: Protecting world heritage sites
+2025-04-07 14:30:27,731 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 14:30:27,731 - mun_scraper - INFO - Crawling source: https://www.reuters.com for UN Educational, Scientific and Cultural Organization - Protecting world heritage sites
+2025-04-07 14:30:27,731 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 14:30:27,731 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for UN Educational, Scientific and Cultural Organization - Protecting world heritage sites
+2025-04-07 14:30:27,731 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 14:30:27,731 - mun_scraper - INFO - Crawling source: https://www.theguardian.com/international for UN Educational, Scientific and Cultural Organization - Protecting world heritage sites
+2025-04-07 14:30:27,731 - mun_scraper - INFO - Finished crawling https://www.theguardian.com/international. Processed 0 URLs.
+2025-04-07 14:30:27,731 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 14:30:27,731 - mun_scraper - INFO - Crawling source: https://www.unesco.org for UN Educational, Scientific and Cultural Organization - Protecting world heritage sites
+2025-04-07 14:30:27,731 - mun_scraper - INFO - Finished crawling https://www.unesco.org. Processed 0 URLs.
+2025-04-07 14:30:27,731 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 14:30:27,731 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for UN Educational, Scientific and Cultural Organization - Protecting world heritage sites
+2025-04-07 14:30:27,731 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 14:30:27,731 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 14:30:27,731 - mun_scraper - INFO - Crawling source: https://www.icomos.org for UN Educational, Scientific and Cultural Organization - Protecting world heritage sites
+2025-04-07 14:30:32,136 - mun_scraper - INFO - Saved article: Accueil - International Council on Monuments and Sites - Relevance: 0.42
+2025-04-07 14:30:55,416 - mun_scraper - WARNING - Failed to fetch https://policies.google.com/technologies/privacy?hl=fr&gl=fr: HTTP 404
+2025-04-07 14:31:12,278 - mun_scraper - INFO - Saved article: A vos agendas : AGA2025 à Lumbini, Népal - International Council on Monuments and Sites - Relevance: 0.32
+2025-04-07 14:31:18,485 - mun_scraper - INFO - Saved article: Home Page | ICOMOS AGA2025 - Relevance: 0.48
+2025-04-07 14:31:24,247 - mun_scraper - INFO - Finished crawling https://www.icomos.org. Processed 21 URLs.
+2025-04-07 14:31:24,247 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 14:31:24,247 - mun_scraper - INFO - Crawling source: https://scholar.google.com for UN Educational, Scientific and Cultural Organization - Protecting world heritage sites
+2025-04-07 14:31:24,247 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 14:31:24,248 - mun_scraper - INFO - Crawling source: https://www.jstor.org for UN Educational, Scientific and Cultural Organization - Protecting world heritage sites
+2025-04-07 14:31:24,248 - mun_scraper - INFO - Finished crawling https://www.jstor.org. Processed 0 URLs.
+2025-04-07 14:31:24,248 - mun_scraper - INFO - Processing topic 2/3: Solidifying sustainable agriculture
+2025-04-07 14:31:24,248 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 14:31:24,248 - mun_scraper - INFO - Crawling source: https://www.reuters.com for UN Educational, Scientific and Cultural Organization - Solidifying sustainable agriculture
+2025-04-07 14:31:24,248 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 14:31:24,248 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for UN Educational, Scientific and Cultural Organization - Solidifying sustainable agriculture
+2025-04-07 14:31:24,248 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 14:31:24,248 - mun_scraper - INFO - Crawling source: https://www.theguardian.com/international for UN Educational, Scientific and Cultural Organization - Solidifying sustainable agriculture
+2025-04-07 14:31:24,248 - mun_scraper - INFO - Finished crawling https://www.theguardian.com/international. Processed 0 URLs.
+2025-04-07 14:31:24,248 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 14:31:24,248 - mun_scraper - INFO - Crawling source: https://www.fao.org for UN Educational, Scientific and Cultural Organization - Solidifying sustainable agriculture
+2025-04-07 14:31:24,248 - mun_scraper - INFO - Finished crawling https://www.fao.org. Processed 0 URLs.
+2025-04-07 14:31:24,248 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 14:31:24,248 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for UN Educational, Scientific and Cultural Organization - Solidifying sustainable agriculture
+2025-04-07 14:31:24,248 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 14:31:24,248 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 14:31:24,248 - mun_scraper - INFO - Crawling source: https://www.ifoam.bio for UN Educational, Scientific and Cultural Organization - Solidifying sustainable agriculture
+2025-04-07 14:31:26,470 - mun_scraper - INFO - Saved article: IFOAM - Organics International | Home - Relevance: 0.52
+2025-04-07 14:31:28,614 - mun_scraper - INFO - Saved article: IFOAM AgriBioMediterraneo | IFOAM - Relevance: 0.55
+2025-04-07 14:31:30,792 - mun_scraper - INFO - Saved article: IFOAM Asia | IFOAM - Relevance: 0.41
+2025-04-07 14:31:33,017 - mun_scraper - INFO - Saved article: IFOAM Organics Europe | IFOAM - Relevance: 0.38
+2025-04-07 14:31:34,956 - mun_scraper - INFO - Saved article: IFOAM Euro-Asia | IFOAM - Relevance: 0.43
+2025-04-07 14:31:36,816 - mun_scraper - INFO - Saved article: IFOAM America Latina | IFOAM - Relevance: 0.40
+2025-04-07 14:31:36,816 - mun_scraper - INFO - Finished crawling https://www.ifoam.bio. Processed 6 URLs.
+2025-04-07 14:31:36,816 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 14:31:36,816 - mun_scraper - INFO - Crawling source: https://www.jstor.org for UN Educational, Scientific and Cultural Organization - Solidifying sustainable agriculture
+2025-04-07 14:31:36,816 - mun_scraper - INFO - Finished crawling https://www.jstor.org. Processed 0 URLs.
+2025-04-07 14:31:36,816 - mun_scraper - INFO - Crawling source: https://scholar.google.com for UN Educational, Scientific and Cultural Organization - Solidifying sustainable agriculture
+2025-04-07 14:31:36,816 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 14:31:36,816 - mun_scraper - INFO - Processing topic 3/3: Promoting the return of cultural property to its country of origin
+2025-04-07 14:31:36,816 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 14:31:36,816 - mun_scraper - INFO - Crawling source: https://www.reuters.com for UN Educational, Scientific and Cultural Organization - Promoting the return of cultural property to its country of origin
+2025-04-07 14:31:36,816 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 14:31:36,816 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for UN Educational, Scientific and Cultural Organization - Promoting the return of cultural property to its country of origin
+2025-04-07 14:31:36,816 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 14:31:36,816 - mun_scraper - INFO - Crawling source: https://www.theguardian.com/international for UN Educational, Scientific and Cultural Organization - Promoting the return of cultural property to its country of origin
+2025-04-07 14:31:36,816 - mun_scraper - INFO - Finished crawling https://www.theguardian.com/international. Processed 0 URLs.
+2025-04-07 14:31:36,816 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 14:31:36,816 - mun_scraper - INFO - Crawling source: https://www.unesco.org for UN Educational, Scientific and Cultural Organization - Promoting the return of cultural property to its country of origin
+2025-04-07 14:31:36,816 - mun_scraper - INFO - Finished crawling https://www.unesco.org. Processed 0 URLs.
+2025-04-07 14:31:36,816 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 14:31:36,816 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for UN Educational, Scientific and Cultural Organization - Promoting the return of cultural property to its country of origin
+2025-04-07 14:31:36,816 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 14:31:36,816 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 14:31:36,816 - mun_scraper - INFO - Crawling source: https://www.blueshieldinternational.org for UN Educational, Scientific and Cultural Organization - Promoting the return of cultural property to its country of origin
+2025-04-07 14:31:36,954 - mun_scraper - WARNING - Error fetching https://www.blueshieldinternational.org: HTTPSConnectionPool(host='www.blueshieldinternational.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x16b284680>: Failed to resolve 'www.blueshieldinternational.org' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-04-07 14:31:36,955 - mun_scraper - INFO - Finished crawling https://www.blueshieldinternational.org. Processed 0 URLs.
+2025-04-07 14:31:36,955 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 14:31:36,955 - mun_scraper - INFO - Crawling source: https://scholar.google.com for UN Educational, Scientific and Cultural Organization - Promoting the return of cultural property to its country of origin
+2025-04-07 14:31:36,955 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 14:31:36,955 - mun_scraper - INFO - Crawling source: https://www.researchgate.net for UN Educational, Scientific and Cultural Organization - Promoting the return of cultural property to its country of origin
+2025-04-07 14:31:36,955 - mun_scraper - INFO - Finished crawling https://www.researchgate.net. Processed 0 URLs.
+2025-04-07 14:31:36,955 - mun_scraper - INFO - Processing committee: Regional Security Council
+2025-04-07 14:31:36,955 - mun_scraper - INFO - Processing topic 1/3: Preventing unlawful detentions in East Africa
+2025-04-07 14:31:36,955 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 14:31:36,955 - mun_scraper - INFO - Crawling source: https://www.reuters.com for Regional Security Council - Preventing unlawful detentions in East Africa
+2025-04-07 14:31:36,955 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 14:31:36,956 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for Regional Security Council - Preventing unlawful detentions in East Africa
+2025-04-07 14:31:36,956 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 14:31:36,956 - mun_scraper - INFO - Crawling source: https://www.aljazeera.com/news/ for Regional Security Council - Preventing unlawful detentions in East Africa
+2025-04-07 14:31:36,973 - mun_scraper - INFO - Finished crawling https://www.aljazeera.com/news/. Processed 0 URLs.
+2025-04-07 14:31:36,973 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 14:31:36,973 - mun_scraper - INFO - Crawling source: https://au.int for Regional Security Council - Preventing unlawful detentions in East Africa
+2025-04-07 14:31:39,424 - mun_scraper - INFO - Saved article: Home | African Union - Relevance: 0.46
+2025-04-07 14:31:41,718 - mun_scraper - INFO - Saved article: AU THEME OF THE YEAR 2025 | African Union - Relevance: 0.38
+2025-04-07 14:31:45,043 - mun_scraper - WARNING - Failed to fetch https://undocs.org/pdf?symbol=en/A/RES/52/111: HTTP 404
+2025-04-07 14:31:45,742 - mun_scraper - WARNING - Failed to fetch https://undocs.org/pdf?symbol=en/A/RES/56/266: HTTP 404
+2025-04-07 14:31:51,004 - mun_scraper - INFO - Saved article: 2001 Durban Racism Conference - Search Results - United Nations Digital Library System - Relevance: 0.48
+2025-04-07 14:31:54,655 - mun_scraper - INFO - Saved article: The Continental Experts’ Workshop on the Restitution of Cultural Property and Heritage Holds at the Museum of Black Civilization in Dakar, Senegal  | African Union - Relevance: 0.42
+2025-04-07 14:31:57,212 - mun_scraper - WARNING - Failed to fetch https://www.facebook.com/AfricanUnionCommission/: HTTP 400
+2025-04-07 14:32:07,398 - mun_scraper - INFO - Saved article: Accra Proclamation on Reparations | African Union - Relevance: 0.55
+2025-04-07 14:32:10,819 - mun_scraper - INFO - Saved article: Resolution on Africa’s Reparations Agenda and The Human Rights of Africans In the Diaspora and People of African Descent Worldwide - ACHPR/Res.543 (LXXIII) 2022 |  African Commission on Human and Peoples' Rights - Relevance: 0.35
+2025-04-07 14:32:19,851 - mun_scraper - INFO - Saved article: African Union Commission End of Term Report 2017-2021 | African Union - Relevance: 0.42
+2025-04-07 14:32:22,324 - mun_scraper - INFO - Saved article: Reports | African Union - Relevance: 0.34
+2025-04-07 14:32:24,619 - mun_scraper - INFO - Saved article: Home | African Union - Relevance: 0.46
+2025-04-07 14:32:26,883 - mun_scraper - INFO - Saved article: African Union | An Integrated, Prosperous and Peaceful Africa. - Relevance: 0.48
+2025-04-07 14:32:27,420 - mun_scraper - WARNING - Failed to fetch https://au.int/en/auc-leadership-elections-livestream: HTTP 500
+2025-04-07 14:32:27,967 - mun_scraper - WARNING - Failed to fetch https://au.int/en/auc-leadership-elections: HTTP 500
+2025-04-07 14:32:37,586 - mun_scraper - INFO - Saved article: African Union | African Union - Relevance: 0.32
+2025-04-07 14:32:42,442 - mun_scraper - INFO - Saved article: AU Echo 2024 Edition  | African Union - Relevance: 0.35
+2025-04-07 14:32:44,649 - mun_scraper - INFO - Saved article: Documents | African Union - Relevance: 0.38
+2025-04-07 14:32:46,764 - mun_scraper - INFO - Saved article: 38th AU Summit Program of Events | African Union - Relevance: 0.35
+2025-04-07 14:32:48,969 - mun_scraper - INFO - Saved article: Decisions and Declarations | African Union - Relevance: 0.36
+2025-04-07 14:32:48,969 - mun_scraper - INFO - Finished crawling https://au.int. Processed 24 URLs.
+2025-04-07 14:32:48,969 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 14:32:48,969 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for Regional Security Council - Preventing unlawful detentions in East Africa
+2025-04-07 14:32:48,969 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 14:32:48,969 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 14:32:48,969 - mun_scraper - INFO - Crawling source: https://www.amnesty.org/en/ for Regional Security Council - Preventing unlawful detentions in East Africa
+2025-04-07 14:32:48,969 - mun_scraper - INFO - Finished crawling https://www.amnesty.org/en/. Processed 0 URLs.
+2025-04-07 14:32:48,969 - mun_scraper - INFO - Crawling source: https://www.hrw.org for Regional Security Council - Preventing unlawful detentions in East Africa
+2025-04-07 14:32:48,969 - mun_scraper - INFO - Finished crawling https://www.hrw.org. Processed 0 URLs.
+2025-04-07 14:32:48,969 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 14:32:48,969 - mun_scraper - INFO - Crawling source: https://scholar.google.com for Regional Security Council - Preventing unlawful detentions in East Africa
+2025-04-07 14:32:48,969 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 14:32:48,969 - mun_scraper - INFO - Crawling source: https://www.jstor.org for Regional Security Council - Preventing unlawful detentions in East Africa
+2025-04-07 14:32:48,969 - mun_scraper - INFO - Finished crawling https://www.jstor.org. Processed 0 URLs.
+2025-04-07 14:32:48,969 - mun_scraper - INFO - Processing topic 2/3: Combating illegal drug trafficking in the Caribbean
+2025-04-07 14:32:48,969 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 14:32:48,969 - mun_scraper - INFO - Crawling source: https://www.reuters.com for Regional Security Council - Combating illegal drug trafficking in the Caribbean
+2025-04-07 14:32:48,969 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 14:32:48,969 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for Regional Security Council - Combating illegal drug trafficking in the Caribbean
+2025-04-07 14:32:48,969 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 14:32:48,969 - mun_scraper - INFO - Crawling source: https://www.theguardian.com/international for Regional Security Council - Combating illegal drug trafficking in the Caribbean
+2025-04-07 14:32:48,969 - mun_scraper - INFO - Finished crawling https://www.theguardian.com/international. Processed 0 URLs.
+2025-04-07 14:32:48,969 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 14:32:48,970 - mun_scraper - INFO - Crawling source: https://www.unodc.org for Regional Security Council - Combating illegal drug trafficking in the Caribbean
+2025-04-07 14:32:52,909 - mun_scraper - INFO - Saved article: United Nations Office on Drugs and Crime - Relevance: 0.54
+2025-04-07 14:32:55,896 - mun_scraper - INFO - Saved article: United Nations Office on Drugs and Crime - Relevance: 0.54
+2025-04-07 14:33:02,787 - mun_scraper - INFO - Saved article: UNODC Crime Prevention - Youth Crime Prevention through Sports (YCP) - Relevance: 0.33
+2025-04-07 14:33:07,454 - mun_scraper - INFO - Finished crawling https://www.unodc.org. Processed 5 URLs.
+2025-04-07 14:33:07,455 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 14:33:07,455 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for Regional Security Council - Combating illegal drug trafficking in the Caribbean
+2025-04-07 14:33:07,455 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 14:33:07,455 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 14:33:07,455 - mun_scraper - INFO - Crawling source: https://idpc.net for Regional Security Council - Combating illegal drug trafficking in the Caribbean
+2025-04-07 14:33:09,679 - mun_scraper - INFO - Saved article: International Drug Policy Consortium (IDPC) - Relevance: 0.48
+2025-04-07 14:33:11,763 - mun_scraper - INFO - Saved article: International Drug Policy Consortium (IDPC) - Relevance: 0.48
+2025-04-07 14:33:16,758 - mun_scraper - WARNING - Failed to fetch http://www.facebook.com/InternationalDrugPolicyConsortium: HTTP 400
+2025-04-07 14:33:16,760 - mun_scraper - INFO - Finished crawling https://idpc.net. Processed 4 URLs.
+2025-04-07 14:33:16,760 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 14:33:16,761 - mun_scraper - INFO - Crawling source: https://scholar.google.com for Regional Security Council - Combating illegal drug trafficking in the Caribbean
+2025-04-07 14:33:16,761 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 14:33:16,761 - mun_scraper - INFO - Crawling source: https://www.jstor.org for Regional Security Council - Combating illegal drug trafficking in the Caribbean
+2025-04-07 14:33:16,761 - mun_scraper - INFO - Finished crawling https://www.jstor.org. Processed 0 URLs.
+2025-04-07 14:33:16,761 - mun_scraper - INFO - Processing topic 3/3: Addressing unresolved territorial disputes in the Balkans
+2025-04-07 14:33:16,761 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 14:33:16,761 - mun_scraper - INFO - Crawling source: https://www.reuters.com for Regional Security Council - Addressing unresolved territorial disputes in the Balkans
+2025-04-07 14:33:16,761 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 14:33:16,761 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for Regional Security Council - Addressing unresolved territorial disputes in the Balkans
+2025-04-07 14:33:16,761 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 14:33:16,761 - mun_scraper - INFO - Crawling source: https://www.theguardian.com/international for Regional Security Council - Addressing unresolved territorial disputes in the Balkans
+2025-04-07 14:33:16,761 - mun_scraper - INFO - Finished crawling https://www.theguardian.com/international. Processed 0 URLs.
+2025-04-07 14:33:16,761 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 14:33:16,761 - mun_scraper - INFO - Crawling source: https://www.un.org for Regional Security Council - Addressing unresolved territorial disputes in the Balkans
+2025-04-07 14:33:16,761 - mun_scraper - INFO - Finished crawling https://www.un.org. Processed 0 URLs.
+2025-04-07 14:33:16,761 - mun_scraper - INFO - Crawling source: https://news.un.org for Regional Security Council - Addressing unresolved territorial disputes in the Balkans
+2025-04-07 14:33:16,761 - mun_scraper - INFO - Finished crawling https://news.un.org. Processed 0 URLs.
+2025-04-07 14:33:16,762 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 14:33:16,762 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for Regional Security Council - Addressing unresolved territorial disputes in the Balkans
+2025-04-07 14:33:16,762 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 14:33:16,762 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 14:33:16,762 - mun_scraper - INFO - Crawling source: https://www.crisisgroup.org for Regional Security Council - Addressing unresolved territorial disputes in the Balkans
+2025-04-07 14:33:16,762 - mun_scraper - INFO - Finished crawling https://www.crisisgroup.org. Processed 0 URLs.
+2025-04-07 14:33:16,762 - mun_scraper - INFO - Crawling source: https://www.amnesty.org/en/ for Regional Security Council - Addressing unresolved territorial disputes in the Balkans
+2025-04-07 14:33:16,762 - mun_scraper - INFO - Finished crawling https://www.amnesty.org/en/. Processed 0 URLs.
+2025-04-07 14:33:16,762 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 14:33:16,762 - mun_scraper - INFO - Crawling source: https://scholar.google.com for Regional Security Council - Addressing unresolved territorial disputes in the Balkans
+2025-04-07 14:33:16,762 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 14:33:16,762 - mun_scraper - INFO - Crawling source: https://www.researchgate.net for Regional Security Council - Addressing unresolved territorial disputes in the Balkans
+2025-04-07 14:33:16,762 - mun_scraper - INFO - Finished crawling https://www.researchgate.net. Processed 0 URLs.
+2025-04-07 14:33:16,762 - mun_scraper - INFO - Processing committee: Security Council
+2025-04-07 14:33:16,762 - mun_scraper - INFO - Processing topic 1/3: Assessing the internet’s role in exacerbating extremism
+2025-04-07 14:33:16,763 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 14:33:16,763 - mun_scraper - INFO - Crawling source: https://www.reuters.com for Security Council - Assessing the internet’s role in exacerbating extremism
+2025-04-07 14:33:16,763 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 14:33:16,763 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for Security Council - Assessing the internet’s role in exacerbating extremism
+2025-04-07 14:33:16,763 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 14:33:16,763 - mun_scraper - INFO - Crawling source: https://www.aljazeera.com/news/ for Security Council - Assessing the internet’s role in exacerbating extremism
+2025-04-07 14:33:16,763 - mun_scraper - INFO - Finished crawling https://www.aljazeera.com/news/. Processed 0 URLs.
+2025-04-07 14:33:16,763 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 14:33:16,763 - mun_scraper - INFO - Crawling source: https://www.un.org for Security Council - Assessing the internet’s role in exacerbating extremism
+2025-04-07 14:33:16,763 - mun_scraper - INFO - Finished crawling https://www.un.org. Processed 0 URLs.
+2025-04-07 14:33:16,763 - mun_scraper - INFO - Crawling source: https://news.un.org for Security Council - Assessing the internet’s role in exacerbating extremism
+2025-04-07 14:33:16,763 - mun_scraper - INFO - Finished crawling https://news.un.org. Processed 0 URLs.
+2025-04-07 14:33:16,763 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 14:33:16,763 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for Security Council - Assessing the internet’s role in exacerbating extremism
+2025-04-07 14:33:16,763 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 14:33:16,763 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 14:33:16,763 - mun_scraper - INFO - Crawling source: https://www.hrw.org for Security Council - Assessing the internet’s role in exacerbating extremism
+2025-04-07 14:33:16,763 - mun_scraper - INFO - Finished crawling https://www.hrw.org. Processed 0 URLs.
+2025-04-07 14:33:16,763 - mun_scraper - INFO - Crawling source: https://www.accessnow.org for Security Council - Assessing the internet’s role in exacerbating extremism
+2025-04-07 14:33:16,763 - mun_scraper - INFO - Finished crawling https://www.accessnow.org. Processed 0 URLs.
+2025-04-07 14:33:16,763 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 14:33:16,763 - mun_scraper - INFO - Crawling source: https://scholar.google.com for Security Council - Assessing the internet’s role in exacerbating extremism
+2025-04-07 14:33:16,763 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 14:33:16,764 - mun_scraper - INFO - Crawling source: https://www.jstor.org for Security Council - Assessing the internet’s role in exacerbating extremism
+2025-04-07 14:33:16,764 - mun_scraper - INFO - Finished crawling https://www.jstor.org. Processed 0 URLs.
+2025-04-07 14:33:16,764 - mun_scraper - INFO - Processing topic 2/3: Evaluating recent escalations of the humanitarian crisis in Yemen
+2025-04-07 14:33:16,764 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 14:33:16,764 - mun_scraper - INFO - Crawling source: https://www.reuters.com for Security Council - Evaluating recent escalations of the humanitarian crisis in Yemen
+2025-04-07 14:33:16,764 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 14:33:16,764 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for Security Council - Evaluating recent escalations of the humanitarian crisis in Yemen
+2025-04-07 14:33:16,764 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 14:33:16,764 - mun_scraper - INFO - Crawling source: https://www.aljazeera.com/news/ for Security Council - Evaluating recent escalations of the humanitarian crisis in Yemen
+2025-04-07 14:33:16,764 - mun_scraper - INFO - Finished crawling https://www.aljazeera.com/news/. Processed 0 URLs.
+2025-04-07 14:33:16,764 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 14:33:16,764 - mun_scraper - INFO - Crawling source: https://news.un.org for Security Council - Evaluating recent escalations of the humanitarian crisis in Yemen
+2025-04-07 14:33:16,764 - mun_scraper - INFO - Finished crawling https://news.un.org. Processed 0 URLs.
+2025-04-07 14:33:16,764 - mun_scraper - INFO - Crawling source: https://www.un.org for Security Council - Evaluating recent escalations of the humanitarian crisis in Yemen
+2025-04-07 14:33:16,764 - mun_scraper - INFO - Finished crawling https://www.un.org. Processed 0 URLs.
+2025-04-07 14:33:16,764 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 14:33:16,764 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for Security Council - Evaluating recent escalations of the humanitarian crisis in Yemen
+2025-04-07 14:33:16,764 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 14:33:16,764 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 14:33:16,764 - mun_scraper - INFO - Crawling source: https://www.crisisgroup.org for Security Council - Evaluating recent escalations of the humanitarian crisis in Yemen
+2025-04-07 14:33:16,764 - mun_scraper - INFO - Finished crawling https://www.crisisgroup.org. Processed 0 URLs.
+2025-04-07 14:33:16,765 - mun_scraper - INFO - Crawling source: https://www.amnesty.org/en/ for Security Council - Evaluating recent escalations of the humanitarian crisis in Yemen
+2025-04-07 14:33:16,765 - mun_scraper - INFO - Finished crawling https://www.amnesty.org/en/. Processed 0 URLs.
+2025-04-07 14:33:16,765 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 14:33:16,765 - mun_scraper - INFO - Crawling source: https://scholar.google.com for Security Council - Evaluating recent escalations of the humanitarian crisis in Yemen
+2025-04-07 14:33:16,765 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 14:33:16,765 - mun_scraper - INFO - Crawling source: https://www.jstor.org for Security Council - Evaluating recent escalations of the humanitarian crisis in Yemen
+2025-04-07 14:33:16,765 - mun_scraper - INFO - Finished crawling https://www.jstor.org. Processed 0 URLs.
+2025-04-07 14:33:16,765 - mun_scraper - INFO - Processing topic 3/3: Open agenda on the effects of transnational organized crime on international security
+2025-04-07 14:33:16,765 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 14:33:16,765 - mun_scraper - INFO - Crawling source: https://www.reuters.com for Security Council - Open agenda on the effects of transnational organized crime on international security
+2025-04-07 14:33:16,765 - mun_scraper - INFO - Finished crawling https://www.reuters.com. Processed 0 URLs.
+2025-04-07 14:33:16,765 - mun_scraper - INFO - Crawling source: https://www.bbc.com/news for Security Council - Open agenda on the effects of transnational organized crime on international security
+2025-04-07 14:33:16,765 - mun_scraper - INFO - Finished crawling https://www.bbc.com/news. Processed 0 URLs.
+2025-04-07 14:33:16,765 - mun_scraper - INFO - Crawling source: https://www.theguardian.com/international for Security Council - Open agenda on the effects of transnational organized crime on international security
+2025-04-07 14:33:16,765 - mun_scraper - INFO - Finished crawling https://www.theguardian.com/international. Processed 0 URLs.
+2025-04-07 14:33:16,765 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 14:33:16,765 - mun_scraper - INFO - Crawling source: https://www.un.org for Security Council - Open agenda on the effects of transnational organized crime on international security
+2025-04-07 14:33:16,765 - mun_scraper - INFO - Finished crawling https://www.un.org. Processed 0 URLs.
+2025-04-07 14:33:16,766 - mun_scraper - INFO - Crawling source: https://news.un.org for Security Council - Open agenda on the effects of transnational organized crime on international security
+2025-04-07 14:33:16,766 - mun_scraper - INFO - Finished crawling https://news.un.org. Processed 0 URLs.
+2025-04-07 14:33:16,766 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 14:33:16,766 - mun_scraper - INFO - Crawling source: https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/ for Security Council - Open agenda on the effects of transnational organized crime on international security
+2025-04-07 14:33:16,766 - mun_scraper - INFO - Finished crawling https://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/. Processed 0 URLs.
+2025-04-07 14:33:16,766 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 14:33:16,766 - mun_scraper - INFO - Crawling source: https://www.amnesty.org/en/ for Security Council - Open agenda on the effects of transnational organized crime on international security
+2025-04-07 14:33:16,766 - mun_scraper - INFO - Finished crawling https://www.amnesty.org/en/. Processed 0 URLs.
+2025-04-07 14:33:16,766 - mun_scraper - INFO - Crawling source: https://www.hrw.org for Security Council - Open agenda on the effects of transnational organized crime on international security
+2025-04-07 14:33:16,766 - mun_scraper - INFO - Finished crawling https://www.hrw.org. Processed 0 URLs.
+2025-04-07 14:33:16,766 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 14:33:16,766 - mun_scraper - INFO - Crawling source: https://scholar.google.com for Security Council - Open agenda on the effects of transnational organized crime on international security
+2025-04-07 14:33:16,766 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 14:33:16,766 - mun_scraper - INFO - Crawling source: https://www.jstor.org for Security Council - Open agenda on the effects of transnational organized crime on international security
+2025-04-07 14:33:16,766 - mun_scraper - INFO - Finished crawling https://www.jstor.org. Processed 0 URLs.
+2025-04-07 14:33:16,766 - mun_scraper - INFO - Processing committee: Crisis
+2025-04-07 14:33:16,766 - mun_scraper - INFO - Processing topic 1/1: The Meiji Restoration
+2025-04-07 14:33:16,766 - mun_scraper - INFO - Processing source category: news_outlets
+2025-04-07 14:33:16,766 - mun_scraper - INFO - Crawling source: https://www.bbc.co.uk/history for Crisis - The Meiji Restoration
+2025-04-07 14:33:27,715 - mun_scraper - INFO - Finished crawling https://www.bbc.co.uk/history. Processed 5 URLs.
+2025-04-07 14:33:27,715 - mun_scraper - INFO - Crawling source: https://www.history.com for Crisis - The Meiji Restoration
+2025-04-07 14:34:11,808 - mun_scraper - WARNING - Failed to fetch https://pubs.aip.org/aip/jcp/article-abstract/153/13/134306/199470/Hydrogen-nuclear-mean-kinetic-energy-in-water-down?redirectedFrom=fulltext: HTTP 403
+2025-04-07 14:34:29,206 - mun_scraper - INFO - Saved article: Great Depression: Causes, Definition & Dates | HISTORY - Relevance: 0.40
+2025-04-07 14:34:31,329 - mun_scraper - INFO - Saved article: 5 Causes of the Great Depression | HISTORY - Relevance: 0.38
+2025-04-07 14:34:33,259 - mun_scraper - INFO - Saved article: How the Dust Bowl Made Americans Refugees in Their Own Country | HISTORY - Relevance: 0.40
+2025-04-07 14:34:35,302 - mun_scraper - INFO - Saved article: How FDR's 'Fireside Chats' Helped Calm a Nation in Crisis | HISTORY - Relevance: 0.38
+2025-04-07 14:34:58,231 - mun_scraper - INFO - Saved article: Great Depression: Black Thursday, Facts & Effects - Relevance: 0.40
+2025-04-07 14:35:03,524 - mun_scraper - INFO - Saved article: History.com Editors | HISTORY - Relevance: 0.38
+2025-04-07 14:35:05,678 - mun_scraper - INFO - Saved article: World War II: Summary, Combatants & Facts | HISTORY - Relevance: 0.40
+2025-04-07 14:35:21,408 - mun_scraper - WARNING - Failed to fetch https://www.history.com/tag/kennedy-family: HTTP 404
+2025-04-07 14:35:26,194 - mun_scraper - INFO - Saved article: Inventions and Science: Ideas and Inventors | HISTORY - Relevance: 0.40
+2025-04-07 14:35:30,096 - mun_scraper - INFO - Saved article: Car History Timeline: From 3-Wheeled Buggies to Self-Driving Vehicles | HISTORY - Relevance: 0.38
+2025-04-07 14:35:49,275 - mun_scraper - INFO - Saved article: Sept. 23, 1889: Success Is in the Cards for Nintendo | WIRED - Relevance: 0.32
+2025-04-07 14:36:06,232 - mun_scraper - INFO - Saved article: Quartz - Relevance: 0.35
+2025-04-07 14:36:13,137 - mun_scraper - INFO - Saved article: The Nintendo They've Tried to Forget: Gambling, Gangsters, and Love Hotels - Relevance: 0.52
+2025-04-07 14:36:15,281 - mun_scraper - INFO - Saved article: How Warning Labels Helped Lead to a Crackdown on Smoking | HISTORY - Relevance: 0.40
+2025-04-07 14:36:17,467 - mun_scraper - INFO - Saved article: 1960s: Counterculture and Civil Rights Movement | HISTORY - Relevance: 0.40
+2025-04-07 14:36:19,538 - mun_scraper - INFO - Saved article: Was 1968 America’s Bloodiest Year in Politics? | HISTORY - Relevance: 0.35
+2025-04-07 14:36:19,538 - mun_scraper - INFO - Finished crawling https://www.history.com. Processed 73 URLs.
+2025-04-07 14:36:19,538 - mun_scraper - INFO - Processing source category: UN_organizations
+2025-04-07 14:36:19,538 - mun_scraper - INFO - Processing source category: past_UN_resolutions
+2025-04-07 14:36:19,538 - mun_scraper - INFO - Processing source category: NGOs
+2025-04-07 14:36:19,538 - mun_scraper - INFO - Processing source category: academia
+2025-04-07 14:36:19,538 - mun_scraper - INFO - Crawling source: https://scholar.google.com for Crisis - The Meiji Restoration
+2025-04-07 14:36:19,538 - mun_scraper - INFO - Finished crawling https://scholar.google.com. Processed 0 URLs.
+2025-04-07 14:36:19,538 - mun_scraper - INFO - Crawling source: https://www.jstor.org for Crisis - The Meiji Restoration
+2025-04-07 14:36:19,538 - mun_scraper - INFO - Finished crawling https://www.jstor.org. Processed 0 URLs.
+2025-04-07 14:36:19,538 - mun_scraper - INFO - Creating CSV summaries...
+2025-04-07 14:36:19,550 - mun_scraper - INFO - Created topic summary: mun_data/summaries/UN_Educational_Scientific_and_Cultural_Organization_Solidifying_sustainable_agriculture.csv
+2025-04-07 14:36:19,552 - mun_scraper - INFO - Created topic summary: mun_data/summaries/UN_Educational_Scientific_and_Cultural_Organization_Protecting_world_heritage_sites.csv
+2025-04-07 14:36:19,581 - mun_scraper - INFO - Created topic summary: mun_data/summaries/Economic_and_Social_Council_Promoting_rural_development_in_Africa.csv
+2025-04-07 14:36:19,592 - mun_scraper - INFO - Created topic summary: mun_data/summaries/Economic_and_Social_Council_Addressing_social_inclusion_of_the_elderly.csv
+2025-04-07 14:36:19,610 - mun_scraper - INFO - Created topic summary: mun_data/summaries/Economic_and_Social_Council_Improving_higher_education_in_developing_countries.csv
+2025-04-07 14:36:19,616 - mun_scraper - INFO - Created topic summary: mun_data/summaries/United_Nations_Environment_Programme_Limiting_chemical_pollutants_and_pesticides_in_soil.csv
+2025-04-07 14:36:19,632 - mun_scraper - INFO - Created topic summary: mun_data/summaries/United_Nations_Environment_Programme_Regulating_unethical_textile_manufacturing_and_the_fast_fashion_industry.csv
+2025-04-07 14:36:19,636 - mun_scraper - INFO - Created topic summary: mun_data/summaries/Regional_Security_Council_Combating_illegal_drug_trafficking_in_the_Caribbean.csv
+2025-04-07 14:36:19,660 - mun_scraper - INFO - Created topic summary: mun_data/summaries/Regional_Security_Council_Preventing_unlawful_detentions_in_East_Africa.csv
+2025-04-07 14:36:19,666 - mun_scraper - INFO - Created topic summary: mun_data/summaries/Third_Committee_Upholding_the_international_criminal_justice_system_for_public_safety.csv
+2025-04-07 14:36:19,698 - mun_scraper - INFO - Created topic summary: mun_data/summaries/Third_Committee_Fostering_the_advancement_of_women_within_education.csv
+2025-04-07 14:36:19,711 - mun_scraper - INFO - Created topic summary: mun_data/summaries/Third_Committee_Affirming_the_rights_of_communities_displaced_by_violence.csv
+2025-04-07 14:36:19,732 - mun_scraper - INFO - Created topic summary: mun_data/summaries/Crisis_The_Meiji_Restoration.csv
+2025-04-07 14:36:19,786 - mun_scraper - INFO - Created topic summary: mun_data/summaries/First_Committee_Regulating_the_use_of_private_military_contractors_in_conflict_zones.csv
+2025-04-07 14:36:19,808 - mun_scraper - INFO - Created topic summary: mun_data/summaries/First_Committee_Combating_the_rise_of_extremist_groups_in_the_Sahel.csv
+2025-04-07 14:36:19,843 - mun_scraper - INFO - Created topic summary: mun_data/summaries/First_Committee_Creating_systems_to_protect_against_state-sponsored_cyber_attacks.csv
+2025-04-07 14:36:19,854 - mun_scraper - INFO - Created topic summary: mun_data/summaries/Fourth_Committee_Preventing_the_militarization_of_outer_space.csv
+2025-04-07 14:36:19,874 - mun_scraper - INFO - Created topic summary: mun_data/summaries/Fourth_Committee_Ensuring_the_rights_and_safety_of_indigenous_populations.csv
+2025-04-07 14:36:19,880 - mun_scraper - INFO - Created topic summary: mun_data/summaries/United_Nations_Development_Programme_Guaranteeing_nutritional_food_sources.csv
+2025-04-07 14:36:19,882 - mun_scraper - INFO - Created topic summary: mun_data/summaries/International_Maritime_Organization_Addressing_illegal_unreported_and_unregulated_fishing.csv
+2025-04-07 14:36:19,914 - mun_scraper - INFO - Created topic summary: mun_data/summaries/International_Maritime_Organization_Discussing_the_use_of_maritime_autonomous_surface_ships_MASS.csv
+2025-04-07 14:36:19,956 - mun_scraper - INFO - Created topic summary: mun_data/summaries/World_Health_Organization_Regulation_of_pandemics_and_global_regulations_for_lockdowns.csv
+2025-04-07 14:36:19,974 - mun_scraper - INFO - Created topic summary: mun_data/summaries/World_Health_Organization_Addressing_obesity_and_diet-related_diseases.csv
+2025-04-07 14:36:19,987 - mun_scraper - INFO - Created topic summary: mun_data/summaries/World_Health_Organization_Treating_disease_in_areas_of_prolonged_conflict.csv
+2025-04-07 14:36:19,990 - mun_scraper - INFO - Created committee summary: mun_data/summaries/all_committees.csv
+2025-04-07 14:36:19,990 - mun_scraper - INFO - Building search index...
+2025-04-07 14:36:21,984 - mun_scraper - INFO - Search index built and saved to mun_data/index/search_index.pkl
+2025-04-07 14:36:21,990 - mun_scraper - INFO - Scraping completed in 3545.95 seconds
+2025-04-07 14:36:21,990 - mun_scraper - INFO - Processed 13 committees
+2025-04-07 14:36:21,990 - mun_scraper - INFO - Results stored in mun_data
